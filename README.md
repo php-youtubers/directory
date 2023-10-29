@@ -9,7 +9,4 @@
 - **[@MateusGuimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ Developer at ENTRE Institute
 - **[@Phparch](https://www.youtube.com/@Phparch)**: php[architect] team
 - **[@milwad](https://www.youtube.com/@milwad)**: Milwad ‧ Founder of Binafy
-
---- 
-
-- **[@youtube-handle](https://www.youtube.com/@youtube-handle)**: Owner, if any ‧ 2 / 3 words of job position or company
+- **[@Bitfumes](https://www.youtube.com/@Bitfumes)**: Sarthak Shrivastava ‧ Founder of Bitfumes
