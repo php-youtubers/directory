@@ -22,3 +22,4 @@
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: Icaro William ‧ Founder of MOB2YOU Tecnologia
 - **[@dasundev](https://www.youtube.com/@dasundev)**: Dasun Tharanga ‧ Founder of Dasun Dev
 - **[@yoandevco](https://www.youtube.com/@yoandevco)**: Yoan Bernabeu ‧ Founder of YoanDev
+- **[@programwithgio](https://youtube.com/@programwithgio)**: Giorgi G ‧ Founder of Program With Gio
