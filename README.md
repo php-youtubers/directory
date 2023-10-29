@@ -8,6 +8,7 @@
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ founder of https://stitcher.io/
 - **[@MateusGuimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ full stack web developer and Lead Software Engineer at ENTRE Institute
 - **[@Phparch](https://www.youtube.com/@Phparch)**: php[architect]
+- **[@Dani_Krossing](https://www.youtube.com/@Dani_Krossing)**: Dani Krossing - Creator of mmtuts Youtube channel
 
 --- 
 
