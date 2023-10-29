@@ -7,6 +7,7 @@
 - **[@PascalBaljet](https://www.youtube.com/@PascalBaljet)**: Pascal Baljet ‧ creator of Laravel Splade
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ founder of https://stitcher.io/
 - **[@MateusGuimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ full stack web developer and Lead Software Engineer at ENTRE Institute
+- **[@pinguimDoLaravel](https://www.youtube.com/@pinguimDoLaravel)**: Pinguim do Laravel · Rafael Lunardelli
   
 
 --- 
