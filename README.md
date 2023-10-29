@@ -7,6 +7,7 @@
 - **[@PascalBaljet](https://www.youtube.com/@PascalBaljet)**: Pascal Baljet ‧ creator of Laravel Splade
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ founder of https://stitcher.io/
 - **[@MateusGuimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ full stack web developer and Lead Software Engineer at ENTRE Institute
+- - **[@Phparch](https://www.youtube.com/@Phparch)**: php[architect]
 - **[@chrisfidao6727](https://www.youtube.com/@chrisfidao6727)**: Chris Fidao ‧ writes about servers and coding
 - **[@LaravelOnline](https://www.youtube.com/@LaravelOnline)**: Shane Rosenthal ‧ Founder of LaravelOnline
 - **[@pinguimDoLaravel](https://www.youtube.com/@pinguimDoLaravel)**: Rafael Lunardelli ‧ CTO of DevSquad
@@ -33,8 +34,6 @@
 - **[@aschmelyun](https://www.youtube.com/@aschmelyun)**: Andrew Schmelyun ‧ Full-stack developer who works mostly in PHP and JavaScript
 - **[@Thirus](https://www.youtube.com/@Thirus)**: Shruti Balasa ‧ Full-stack web developer, mentor, course creator, tech speaker and Youtuber from Bangalore, India
 - **[@thejasonmccreary](https://www.youtube.com/@thejasonmccreary)**: Jason McCreary ‧ Creator of Laravel Shift
-
-  
 
 --- 
 
