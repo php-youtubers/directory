@@ -1,4 +1,5 @@
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: Laravel team
+- **[@Laracastsofficial](https://www.youtube.com/@Laracastsofficial)**: Jeffrey Way (and the team) - Laracasts owner 
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member
 - **[@LaravelDaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Laravel Daily founder
 
