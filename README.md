@@ -8,6 +8,7 @@
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ Developer at JetBrains
 - **[@MateusGuimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ Developer at ENTRE Institute
 - **[@Phparch](https://www.youtube.com/@Phparch)**: php[architect] team
+- **[@milwad](https://www.youtube.com/@milwad)**: Milwad ‧ Founder of Binafy
 
 --- 
 
