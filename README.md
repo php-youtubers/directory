@@ -3,6 +3,10 @@
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member
 - **[@LaravelDaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Founder of Laravel Daily
 - **[@Codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
+- **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: Christoph Rumpel ‧ author of Laravel Core Adventures
+- **[@PascalBaljet](https://www.youtube.com/@PascalBaljet)**: Pascal Baljet ‧ creator of Laravel Splade
+- **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ founder of https://stitcher.io/
+- **[@MateusGuimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ full stack web developer and Lead Software Engineer at ENTRE Institute
 - **[@chrisfidao6727](https://www.youtube.com/@chrisfidao6727)**: Chris Fidao ‧ writes about servers and coding
 - **[@LaravelOnline](https://www.youtube.com/@LaravelOnline)**: Shane Rosenthal ‧ Founder of LaravelOnline
 - **[@pinguimDoLaravel](https://www.youtube.com/@pinguimDoLaravel)**: Rafael Lunardelli ‧ CTO of DevSquad
@@ -11,14 +15,11 @@
 - **[@codewithdary](https://www.youtube.com/@codewithdary)**: Code With Dary ‧ Backend developer
 - **[@happytodev](https://www.youtube.com/@happytodev)**: Fred Blanc ‧ Makes tutorial videos on PHP and Laravel
 - **[@milwad](https://www.youtube.com/@milwad)**: Milwad Dev ‧ Fun developer
-- **[@PascalBaljet](https://www.youtube.com/@PascalBaljet)**: Pascal Baljet ‧ Creator of splade, FFMpeg and many laravel packages
 - **[@CodewithBurt](https://www.youtube.com/@CodewithBurt)**: Bert De Swaef ‧ Web developer at Vulpo based in Wetteren, Belgium
 - **[@jackmcdade](https://www.youtube.com/@jackmcdade)**: Jack McDade ‧ Creator of statamic
-- **[@MateusGuimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ Lead Software Engineer at ENTRE Institute
 - **[@laraphant](https://www.youtube.com/@laraphant)**: William Juma Misiko ‧ Founder of laraphant.com
 - **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: Loris Leiva ‧ Working at Solana Labs
 - **[@themsaid](https://www.youtube.com/@themsaid)**: Mohamed Said ‧ themsaid.com
-- **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ Developer advocate phpstorm
 - **[@aarondfrancis](https://www.youtube.com/@aarondfrancis)**: Aaron Francis ‧ developer educator at PlanetScale
 - **[@freekmurze](https://www.youtube.com/@freekmurze)**: Freek Van der Herten ‧ created bunch of laravel packages at Spatie also running OhDear and many more
 - **[@bitfumes](https://www.youtube.com/@bitfumes)**: Sarthak Shrivastava ‧ Founder of bitfumes, indepthlaravel and Mezohub
@@ -30,10 +31,10 @@
 - **[@OllieCodes](https://www.youtube.com/@OllieCodes)**: Ollie Read ‧ PHP developer
 - **[@Daltoncast](https://www.youtube.com/@Daltoncast)**: Jordan Dalton ‧ Building SpoolUp.io
 - **[@aschmelyun](https://www.youtube.com/@aschmelyun)**: Andrew Schmelyun ‧ Full-stack developer who works mostly in PHP and JavaScript
-- **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: Christoph Rumpel ‧ Web developer, speaker and teacher from Vienna
 - **[@Thirus](https://www.youtube.com/@Thirus)**: Shruti Balasa ‧ Full-stack web developer, mentor, course creator, tech speaker and Youtuber from Bangalore, India
 - **[@thejasonmccreary](https://www.youtube.com/@thejasonmccreary)**: Jason McCreary ‧ Creator of Laravel Shift
 
+  
 
 --- 
 
