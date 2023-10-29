@@ -8,6 +8,7 @@
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: Christoph Rumpel ‧ Author of Laravel Core Adventures
 - **[@pascalbaljet](https://www.youtube.com/@pascalbaljet)**: Pascal Baljet ‧ Creator of Laravel Splade
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ Developer at JetBrains
+- **[@aarondfrancis](https://www.youtube.com/@aarondfrancis)**: Aaron Francis ‧ Developer at PlanetScale
 - **[@mateusguimaraes](https://www.youtube.com/@mateusguimaraes)**: Mateus Guimarães ‧ Developer at ENTRE Institute
 - **[@phparch](https://www.youtube.com/@Phparch)**: PHP Architect
 - **[@milwad](https://www.youtube.com/@milwad)**: Milwad ‧ Founder of Binafy
