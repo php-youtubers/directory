@@ -1,6 +1,7 @@
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: Laravel team
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member
 - **[@LaravelDaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Laravel Daily founder
+- **[@Codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Full-stack developer and founder of Codecourse
 
 --- 
 
