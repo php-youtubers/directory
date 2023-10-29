@@ -7,7 +7,9 @@
 - **[@PascalBaljet](https://www.youtube.com/@PascalBaljet)**: Pascal Baljet ‧ creator of Laravel Splade
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ founder of https://stitcher.io/
 - **[@MateusGuimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ full stack web developer and Lead Software Engineer at ENTRE Institute
-- - **[@Phparch](https://www.youtube.com/@Phparch)**: php[architect]
+-
+**[@Phparch](https://www.youtube.com/@Phparch)**: php[architect]
+- **[@laravelnews://www.youtube.com/laravelnews)**: Eric Barnes ‧ Creator of Laravel News
 - **[@chrisfidao6727](https://www.youtube.com/@chrisfidao6727)**: Chris Fidao ‧ writes about servers and coding
 - **[@LaravelOnline](https://www.youtube.com/@LaravelOnline)**: Shane Rosenthal ‧ Founder of LaravelOnline
 - **[@pinguimDoLaravel](https://www.youtube.com/@pinguimDoLaravel)**: Rafael Lunardelli ‧ CTO of DevSquad
