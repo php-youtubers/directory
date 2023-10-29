@@ -8,6 +8,7 @@
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ founder of https://stitcher.io/
 - **[@MateusGuimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ full stack web developer and Lead Software Engineer at ENTRE Institute
 - **[@Phparch](https://www.youtube.com/@Phparch)**: php[architect]
+- **[@codewithdary]([https://www.youtube.com/channel/UCkzGZ6ECGCBh0WK9bVUprtw](https://www.youtube.com/@codewithdary))**: Dary ‧ Web developer, educator and owner of Laravel Agency
 
 --- 
 
