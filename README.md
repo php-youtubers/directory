@@ -17,3 +17,4 @@
 - **[@daltoncast](https://www.youtube.com/@daltoncast)**: Jordan Dalton ‧ Developer at Financial Cents
 - **[@beerandcode](https://www.youtube.com/@beerandcode)**: A comunidade dev onde você quer estar!
 - **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: Tiago Matos - Fullstack Developer
+- **[@DiasdeDev](https://www.youtube.com/@DiasdeDev)**: Vinicius Dias - Software Engineer at SOCi
