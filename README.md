@@ -11,3 +11,4 @@
 - **[@milwad](https://www.youtube.com/@milwad)**: Milwad ‧ Founder of Binafy
 - **[@bitfumes](https://www.youtube.com/@Bitfumes)**: Sarthak Shrivastava ‧ Founder of Bitfumes
 - **[@juststeveking](https://www.youtube.com/@JustSteveKing)**: Steve King ‧ Developer Relations at Treblle
+- **[@fideloper](https://www.youtube.com/@fideloper)**: Chris Fidao ‧ Developer at Fly.io
