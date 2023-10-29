@@ -18,5 +18,6 @@
 - **[@codewithdary](https://www.youtube.com/@codewithdary)**: Dary ‧ Founder of Laravel Agency
 - **[@freekmurze](https://www.youtube.com/@freekmurze)**: Freek Van der Herten ‧ Partner at Spatie
 - **[@daltoncast](https://www.youtube.com/@daltoncast)**: Jordan Dalton ‧ Developer at Financial Cents
-- **[@pinguimdolaravel](https://www.youtube.com/@pinguimdolaravel)**: Rafael Lunardelli ‧ TODO
-- **[@tiojobs](https://www.youtube.com/@tiojobs)**: Icaro William ‧ TODO
+- **[@pinguimdolaravel](https://www.youtube.com/@pinguimdolaravel)**: Rafael Lunardelli ‧ Founder of Pinguim Academy
+- **[@tiojobs](https://www.youtube.com/@tiojobs)**: Icaro William ‧ Founder of MOB2YOU Tecnologia
+- **[@dasundev](https://www.youtube.com/@dasundev)**: Dasun Tharanga ‧ Founder of Dasun Dev
