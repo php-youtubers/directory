@@ -10,3 +10,4 @@
 - **[@phparch](https://www.youtube.com/@Phparch)**: php[architect] team
 - **[@milwad](https://www.youtube.com/@milwad)**: Milwad ‧ Founder of Binafy
 - **[@bitfumes](https://www.youtube.com/@Bitfumes)**: Sarthak Shrivastava ‧ Founder of Bitfumes
+- **[@ProgramWithGio](https://www.youtube.com/@ProgramWithGio)**: Giorgi G. ‧ Staff Software Engineer
