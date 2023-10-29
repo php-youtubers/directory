@@ -3,7 +3,7 @@
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member
 - **[@LaravelDaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Founder of Laravel Daily
 - **[@Codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
-
+- **[@ProgrammingWithGio](https://youtube.com/@ProgramWithGio)**: Giorgi G ‧ Founder of Programming With Gio
 --- 
 
 - **[@youtube-handle](https://www.youtube.com/@youtube-handle)**: Owner, if any ‧ 2 / 3 words of job position or company
