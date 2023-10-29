@@ -3,6 +3,7 @@
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Developer at Laravel
 - **[@laraveldaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Founder of Laravel Daily
 - **[@codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
+- **[@codewithdary](https://www.youtube.com/@codewithdary)**: Dary Nazar ‧ Founder of Code with Dary
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: Christoph Rumpel ‧ Author of Laravel Core Adventures
 - **[@pascalbaljet](https://www.youtube.com/@PascalBaljet)**: Pascal Baljet ‧ Creator of Laravel Splade
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ Developer at JetBrains
@@ -15,5 +16,5 @@
 - **[@codewithdary](https://www.youtube.com/@codewithdary)**: Dary ‧ Founder of Laravel Agency
 - **[@freekmurze](https://www.youtube.com/@freekmurze)**: Freek Van der Herten ‧ Partner at Spatie
 - **[@daltoncast](https://www.youtube.com/@daltoncast)**: Jordan Dalton ‧ Developer at Financial Cents
-- **[@pinguimDoLaravel](https://www.youtube.com/@pinguimDoLaravel)**: Rafael Lunardelli ‧ TODO
-- **[@TioJobs](https://www.youtube.com/@TioJobs)**: Icaro William ‧ TODO
+- **[@pinguimdolaravel](https://www.youtube.com/@pinguimDoLaravel)**: Rafael Lunardelli ‧ TODO
+- **[@tiojobs](https://www.youtube.com/@TioJobs)**: Icaro William ‧ TODO
