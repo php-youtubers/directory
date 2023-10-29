@@ -1,5 +1,6 @@
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: Laravel team
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member
+- **[@LaravelDaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Laravel Daily founder
 
 --- 
 
