@@ -3,6 +3,7 @@
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member
 - **[@LaravelDaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Founder of Laravel Daily
 - **[@Codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
+- **[@Spatie](https://www.youtube.com/@SPATIE)**: Spatie main channel ‧ Spatie team
 
 --- 
 
