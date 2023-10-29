@@ -1,9 +1,14 @@
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: Laravel team
-- **[@Laracastsofficial](https://www.youtube.com/@Laracastsofficial)**: Laracasts team
+- **[@laracastsofficial](https://www.youtube.com/@Laracastsofficial)**: Laracasts team
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member
-- **[@LaravelDaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Founder of Laravel Daily
-- **[@Codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
-- **[@fideloper](https://www.youtube.com/@fideloper)**: Chris Fidao ‧ PHP and Servers
---- 
-
-- **[@youtube-handle](https://www.youtube.com/@youtube-handle)**: Owner, if any ‧ 2 / 3 words of job position or company
+- **[@laraveldaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Founder of Laravel Daily
+- **[@codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
+- **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: Christoph Rumpel ‧ Author of Laravel Core Adventures
+- **[@pascalbaljet](https://www.youtube.com/@PascalBaljet)**: Pascal Baljet ‧ Creator of Laravel Splade
+- **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ Developer at JetBrains
+- **[@mateusguimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ Developer at ENTRE Institute
+- **[@phparch](https://www.youtube.com/@Phparch)**: php[architect] team
+- **[@milwad](https://www.youtube.com/@milwad)**: Milwad ‧ Founder of Binafy
+- **[@bitfumes](https://www.youtube.com/@Bitfumes)**: Sarthak Shrivastava ‧ Founder of Bitfumes
+- **[@juststeveking](https://www.youtube.com/@JustSteveKing)**: Steve King ‧ Developer Relations at Treblle
+- **[@fideloper](https://www.youtube.com/@fideloper)**: Chris Fidao ‧ Developer at Fly.io
