@@ -3,6 +3,7 @@
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member
 - **[@LaravelDaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Founder of Laravel Daily
 - **[@Codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
+- **[@CodeWithDary](https://www.youtube.com/@codewithdary)**: Dary Nazar ‧ Founder of Code with Dary YouTube channel and blog.
 
 --- 
 
