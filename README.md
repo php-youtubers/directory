@@ -15,3 +15,4 @@
 - **[@codewithdary](https://www.youtube.com/@codewithdary)**: Dary ‧ Founder of Laravel Agency
 - **[@freekmurze](https://www.youtube.com/@freekmurze)**: Freek Van der Herten ‧ Partner at Spatie
 - **[@daltoncast](https://www.youtube.com/@daltoncast)**: Jordan Dalton ‧ Developer at Financial Cents
+- **[@daltoncast](https://www.youtube.com/@beerandcode)**: A comunidade dev onde você quer estar!
