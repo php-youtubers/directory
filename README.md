@@ -1,3 +1,4 @@
+- **[@dcblogdev](https://www.youtube.com/c/dcblogdev)**: David Carr - PHP Dev & Blogger at dcblog.dev
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: Laravel team
 - **[@Laracastsofficial](https://www.youtube.com/@Laracastsofficial)**: Laracasts team
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member
@@ -7,7 +8,7 @@
 - **[@PascalBaljet](https://www.youtube.com/@PascalBaljet)**: Pascal Baljet ‧ creator of Laravel Splade
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ founder of https://stitcher.io/
 - **[@MateusGuimaraes](https://www.youtube.com/@MateusGuimaraes)**: Mateus Guimarães ‧ full stack web developer and Lead Software Engineer at ENTRE Institute
-- **[@Phparch](https://www.youtube.com/@Phparch)**: php[architect]
+  
 
 --- 
 
