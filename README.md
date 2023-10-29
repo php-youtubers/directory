@@ -1,6 +1,7 @@
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: Laravel team
 - **[@Laracastsofficial](https://www.youtube.com/@Laracastsofficial)**: Laracasts team
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member
+- **[@milwad](https://www.youtube.com/@milwad)**: Milwad ‧ Creator of Laravel-Validate | Owner of Binafy
 - **[@LaravelDaily](https://www.youtube.com/@LaravelDaily)**: Povilas Korop ‧ Founder of Laravel Daily
 - **[@Codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: Christoph Rumpel ‧ author of Laravel Core Adventures
