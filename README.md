@@ -1,2 +1,2 @@
-# directory
-Curated a list of PHP YouTubers, arranged alphabetically. 📋
+- **[@laravelphp](https://www.youtube.com/@laravelphp)**: Laravel team.
+- **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Laravel team member.
