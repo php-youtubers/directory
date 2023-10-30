@@ -5,6 +5,7 @@
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Developer at Laravel
 - **[@laraveldaily](https://www.youtube.com/@laraveldaily)**: Povilas Korop ‧ Founder of Laravel Daily
 - **[@laravelnews](https://www.youtube.com/@laravelnews)**: Eric Barnes ‧ Founder of Laravel News
+- **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: Marian Pop ‧ Founder of Laravel Magazine
 - **[@codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
 - **[@codewithdary](https://www.youtube.com/@codewithdary)**: Dary Nazar ‧ Founder of Code with Dary
 - **[@thejasonmccreary](https://www.youtube.com/@thejasonmccreary)**: Jason McCreary ‧ Founder of Laravel Shift
