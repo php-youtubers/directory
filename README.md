@@ -35,6 +35,9 @@
 - **[@programwithgio](https://youtube.com/@programwithgio)**: Giorgi G ‧ Founder of Program With Gio
 - **[@garyclarketech](https://www.youtube.com/@garyclarketech)**: Gary Clarke - Founder of Gary Clarke Tech
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: Álvaro Jorge ‧ Founder of EuSeiPhp
+- **[@beerandcode](https://www.youtube.com/@beerandcode)**: Lucas Souza - Co-Founder of Beer And Code
+- **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: Tiago Matos - Independent Developer
+- **[@DiasdeDev](https://www.youtube.com/@DiasdeDev)**: Vinicius Dias - Software Engineer at SOCi
 - **[@happytodev](https://www.youtube.com/@happytodev)**: Fred Blanc ‧ Founder of HappyToDev
 - **[@laraveljutsu](https://www.youtube.com/@LaravelJutsu)**: Ludovic Guénet ‧ Founder of Laravel Jutsu
 - **[@laraphant](https://www.youtube.com/@laraphant)**: William Juma Misiko ‧ Founder of Laraphant
