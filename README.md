@@ -54,3 +54,4 @@
 - **[@laratips](https://www.youtube.com/@laratips)**: Ashish Dhamala ‧ Developer at SATs Companion
 - **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**: Imran Qasim ‧ Developer at Perfect Web Solutions
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: Ismael Catalá Gil ‧ Founder of El Rincón de Isma
+- **[@differdev](https://www.youtube.com/differdev)**: Leonardo Tumadjian ‧ Content Creator at DifferDev
