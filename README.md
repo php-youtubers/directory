@@ -36,6 +36,7 @@
 - **[@programwithgio](https://youtube.com/@programwithgio)**: Giorgi G ‧ Founder of Program With Gio
 - **[@garyclarketech](https://www.youtube.com/@garyclarketech)**: Gary Clarke - Founder of Gary Clarke Tech
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: Álvaro Jorge ‧ Founder of EuSeiPhp
+- **[@webmentor](https://www.youtube.com/@webmentorofc)**: Lucas Antônio ‧ Founder of Webmentor
 - **[@beerandcode](https://www.youtube.com/@beerandcode)**: Lucas Souza - Co-Founder of Beer And Code
 - **[@alexandrecardoso](https://www.youtube.com/@alexandrecardoso)**: Alexandre Cardoso ‧ Independent Developer
 - **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: Tiago Matos - Independent Developer
@@ -52,4 +53,3 @@
 - **[@laratips](https://www.youtube.com/@laratips)**: Ashish Dhamala ‧ Developer at SATs Companion
 - **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**: Imran Qasim ‧ Developer at Perfect Web Solutions
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: Ismael Catalá Gil ‧ Founder of El Rincón de Isma
-- **[@webmentor](https://www.youtube.com/@webmentorofc)**: Lucas Antônio ‧ Founder Webmentor and Independent Developer
