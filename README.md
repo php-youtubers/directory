@@ -30,6 +30,7 @@
 - **[@dasundev](https://www.youtube.com/@dasundev)**: Dasun Tharanga ‧ Founder of Dasun Dev
 - **[@yoandevco](https://www.youtube.com/@yoandevco)**: Yoan Bernabeu ‧ Founder of YoanDev
 - **[@programwithgio](https://youtube.com/@programwithgio)**: Giorgi G ‧ Founder of Program With Gio
+- **[@garyclarketech](https://www.youtube.com/@garyclarketech)**: Gary Clarke - Founder of Gary Clarke Tech
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: Álvaro Jorge ‧ Founder of EuSeiPhp
 - **[@happytodev](https://www.youtube.com/@happytodev)**: Fred Blanc ‧ Founder of HappyToDev
 - **[@laraveljutsu](https://www.youtube.com/@LaravelJutsu)**: Ludovic Guénet ‧ Founder of Laravel Jutsu
