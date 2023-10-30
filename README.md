@@ -57,3 +57,5 @@
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: Ismael Catalá Gil ‧ Founder of El Rincón de Isma
 - **[@differdev](https://www.youtube.com/differdev)**: Leonardo Tumadjian ‧ Content Creator at DifferDev
 - **[@celke](https://www.youtube.com/@CelkeBr)**: Cesar Nicolau ‧ Founder of Celke
+- **[@WordInCode](https://www.youtube.com/@CWordInCode)**: Jorge Fabiano ‧ Content Creator of Word In Code
+- **[@EspecializatiBr](https://www.youtube.com/@EspecializatiBr)**: Carlos Ferreira ‧ Founder of EspecializaTi
