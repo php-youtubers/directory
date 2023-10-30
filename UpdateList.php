@@ -25,7 +25,7 @@ foreach ($lines as $line) {
         $namePart = substr($descriptionAndName, 0, $splitPos);
         $description = substr($descriptionAndName, $splitPos + 5);
     } else {
-        $namePart = null;  // Set name part to null
+        $namePart = null;
         $description = $descriptionAndName;
     }
 
@@ -42,7 +42,7 @@ foreach ($youtubers as $index => $youtuber) {
     $json_url = "https://www.googleapis.com/youtube/v3/channels?part=statistics&id={$channelId}&key={$apiKey}";
     $data = json_decode(file_get_contents($json_url), true);
     $followers = $data['items'][0]['statistics']['subscriberCount'];
-    echo 'found ' . $followers . ' followers';
+    
     $youtubers[$index]['channelId'] = $channelId;
     $youtubers[$index]['followers'] = $followers;
 
