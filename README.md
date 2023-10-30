@@ -26,7 +26,7 @@
 - **[@96downlu](https://www.youtube.com/@96downlu)**: Luke Downing ‧ Developer at Pest PHP core team
 - **[@freekmurze](https://www.youtube.com/@freekmurze)**: Freek Van der Herten ‧ Partner at Spatie
 - **[@daltoncast](https://www.youtube.com/@daltoncast)**: Jordan Dalton ‧ Developer at Financial 
-- **[@dani_krossing](https://www.youtube.com/@dani_krossing)**: Dani Krossing - Independent Developer
+- **[@dani_krossing](https://www.youtube.com/@dani_krossing)**: Dani Krossing ‧ Independent Developer
 - **[@pinguimdolaravel](https://www.youtube.com/@pinguimdolaravel)**: Rafael Lunardelli ‧ Founder of Pinguim Academy
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: Tio Jobs ‧ Founder of JOBS TREINAMENTOS
 - **[@dasundev](https://www.youtube.com/@dasundev)**: Dasun Tharanga ‧ Founder of Dasun Dev
@@ -35,13 +35,13 @@
 - **[@toham](https://www.youtube.com/@toham)**: Thomas Boileau ‧ Independent Developer
 - **[@liorchamla](https://www.youtube.com/@liorchamla)**: Lior Chamla ‧ Independent Developer
 - **[@programwithgio](https://youtube.com/@programwithgio)**: Giorgi G ‧ Founder of Program With Gio
-- **[@garyclarketech](https://www.youtube.com/@garyclarketech)**: Gary Clarke - Founder of Gary Clarke Tech
+- **[@garyclarketech](https://www.youtube.com/@garyclarketech)**: Gary Clarke ‧ Founder of Gary Clarke Tech
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: Álvaro Jorge ‧ Founder of EuSeiPhp
 - **[@webmentor](https://www.youtube.com/@webmentorofc)**: Lucas Antônio ‧ Founder of Webmentor
-- **[@beerandcode](https://www.youtube.com/@beerandcode)**: Lucas Souza - Co-Founder of Beer And Code
+- **[@beerandcode](https://www.youtube.com/@beerandcode)**: Lucas Souza ‧ Co-Founder of Beer And Code
 - **[@alexandrecardoso](https://www.youtube.com/@alexandrecardoso)**: Alexandre Cardoso ‧ Independent Developer
-- **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: Tiago Matos - Independent Developer
-- **[@diasdedev](https://www.youtube.com/@diasdedev)**: Vinicius Dias - Software Engineer at SOCi
+- **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: Tiago Matos ‧ Independent Developer
+- **[@diasdedev](https://www.youtube.com/@diasdedev)**: Vinicius Dias ‧ Software Engineer at SOCi
 - **[@happytodev](https://www.youtube.com/@happytodev)**: Fred Blanc ‧ Founder of HappyToDev
 - **[@laraveljutsu](https://www.youtube.com/@LaravelJutsu)**: Ludovic Guénet ‧ Founder of Laravel Jutsu
 - **[@laraphant](https://www.youtube.com/@laraphant)**: William Juma Misiko ‧ Founder of Laraphant
