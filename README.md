@@ -58,3 +58,4 @@
 - **[@differdev](https://www.youtube.com/differdev)**: Leonardo Tumadjian ‧ Content Creator at DifferDev
 - **[@celke](https://www.youtube.com/@CelkeBr)**: Cesar Nicolau ‧ Founder of Celke
 - **[@amitavroydev](https://youtube.com/@amitavroydev)**: Amitav Roy ‧ Independent Developer
+- **[@laraconeu](https://youtube.com/laraconeu)**: Laracon EU ‧ Talk Recordings
