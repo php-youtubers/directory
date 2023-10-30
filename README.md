@@ -1,9 +1,10 @@
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: Laravel
-- **[@livewirephp](https://youtube.com/@LivewirePHP)**: Caleb Porzio ‧ Founder of Livewire
+- **[@livewirephp](https://www.youtube.com/@LivewirePHP)**: Caleb Porzio ‧ Founder of Livewire
 - **[@laracastsofficial](https://www.youtube.com/@laracastsofficial)**: Laracasts
 - **[@spatie](https://www.youtube.com/@spatie)**: Spatie
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Developer at Laravel
 - **[@laraveldaily](https://www.youtube.com/@laraveldaily)**: Povilas Korop ‧ Founder of Laravel Daily
+- **[@filamentdaily](https://www.youtube.com/@filamentdaily)**: Povilas Korop ‧ Founder of Laravel Daily
 - **[@laravelnews](https://www.youtube.com/@laravelnews)**: Eric Barnes ‧ Founder of Laravel News
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: Marian Pop ‧ Founder of Laravel Magazine
 - **[@codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
@@ -40,6 +41,7 @@
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: Álvaro Jorge ‧ Founder of EuSeiPhp
 - **[@webmentor](https://www.youtube.com/@webmentorofc)**: Lucas Antônio ‧ Founder of Webmentor
 - **[@beerandcode](https://www.youtube.com/@beerandcode)**: Lucas Souza ‧ Co-Founder of Beer And Code
+- **[@jldrpt](https://www.youtube.com/@jldrpt)**: João Ribeiro ‧ Independent Developer
 - **[@alexandrecardoso](https://www.youtube.com/@alexandrecardoso)**: Alexandre Cardoso ‧ Independent Developer
 - **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: Tiago Matos ‧ Independent Developer
 - **[@diasdedev](https://www.youtube.com/@diasdedev)**: Vinicius Dias ‧ Software Engineer at SOCi
@@ -55,7 +57,9 @@
 - **[@laratips](https://www.youtube.com/@laratips)**: Ashish Dhamala ‧ Developer at SATs Companion
 - **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**: Imran Qasim ‧ Developer at Perfect Web Solutions
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: Ismael Catalá Gil ‧ Founder of El Rincón de Isma
-- **[@differdev](https://www.youtube.com/differdev)**: Leonardo Tumadjian ‧ Content Creator at DifferDev
-- **[@celke](https://www.youtube.com/@CelkeBr)**: Cesar Nicolau ‧ Founder of Celke
-- **[@amitavroydev](https://youtube.com/@amitavroydev)**: Amitav Roy ‧ Independent Developer
+- **[@differdev](https://www.youtube.com/@differdev)**: Leonardo Tumadjian ‧ Content Creator at DifferDev
+- **[@celkebr](https://www.youtube.com/@celkebr)**: Cesar Nicolau ‧ Founder of Celke
+- **[@amitavroydev](https://www.youtube.com/@amitavroydev)**: Amitav Roy ‧ Independent Developer
 - **[@rmsramos](https://www.youtube.com/@rmsramos)**: Rômulo Ramos ‧ Content Creator
+- **[@devtechtips](https://www.youtube.com/@devtechtips)**: Julio Cesar Urnau de Almeida ‧ CTO at Academia do Ecommerce
+- **[@davidconnelly](https://www.youtube.com/@davidconnelly)**: David Connelly ‧ Founder of Trongate
