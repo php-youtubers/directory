@@ -1,0 +1,22 @@
+name: "Reorder channels"
+on:
+  push:
+    branches: [ "master" ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 'pypy3.8'
+          architecture: x64
+      - name: Install dependencies
+        run: cd ${GITHUB_WORKSPACE}/automation &&  pip install -r requirements.txt
+      - name: Fetch packages
+        run: cd ${GITHUB_WORKSPACE}/automation && python main.py
+      - uses: stefanzweifel/git-auto-commit-action@v4.16.0
+        with:
+          commit_message: "Reorder channels"
