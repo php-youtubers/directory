@@ -24,7 +24,8 @@
 - **[@fideloper](https://www.youtube.com/@fideloper)**: Chris Fidao ‧ Developer at Fly.io
 - **[@96downlu](https://www.youtube.com/@96downlu)**: Luke Downing ‧ Developer at Pest PHP core team
 - **[@freekmurze](https://www.youtube.com/@freekmurze)**: Freek Van der Herten ‧ Partner at Spatie
-- **[@daltoncast](https://www.youtube.com/@daltoncast)**: Jordan Dalton ‧ Developer at Financial Cents
+- **[@daltoncast](https://www.youtube.com/@daltoncast)**: Jordan Dalton ‧ Developer at Financial 
+- **[@dani_krossing](https://www.youtube.com/@dani_krossing)**: Dani Krossing - Independent Developer
 - **[@pinguimdolaravel](https://www.youtube.com/@pinguimdolaravel)**: Rafael Lunardelli ‧ Founder of Pinguim Academy
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: Icaro William ‧ Founder of MOB2YOU Tecnologia
 - **[@dasundev](https://www.youtube.com/@dasundev)**: Dasun Tharanga ‧ Founder of Dasun Dev
@@ -37,7 +38,7 @@
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: Álvaro Jorge ‧ Founder of EuSeiPhp
 - **[@beerandcode](https://www.youtube.com/@beerandcode)**: Lucas Souza - Co-Founder of Beer And Code
 - **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: Tiago Matos - Independent Developer
-- **[@DiasdeDev](https://www.youtube.com/@DiasdeDev)**: Vinicius Dias - Software Engineer at SOCi
+- **[@diasdedev](https://www.youtube.com/@diasdedev)**: Vinicius Dias - Software Engineer at SOCi
 - **[@happytodev](https://www.youtube.com/@happytodev)**: Fred Blanc ‧ Founder of HappyToDev
 - **[@laraveljutsu](https://www.youtube.com/@LaravelJutsu)**: Ludovic Guénet ‧ Founder of Laravel Jutsu
 - **[@laraphant](https://www.youtube.com/@laraphant)**: William Juma Misiko ‧ Founder of Laraphant
