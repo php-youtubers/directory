@@ -52,3 +52,5 @@
 - **[@laratips](https://www.youtube.com/@laratips)**: Ashish Dhamala ‧ Developer at SATs Companion
 - **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**: Imran Qasim ‧ Developer at Perfect Web Solutions
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: Ismael Catalá Gil ‧ Founder of El Rincón de Isma
+- **[@webmentor](https://www.youtube.com/@webmentorofc)**: Lucas Antônio ‧ Founder Webmentor and Independent Developer
+- **[@club full-stack](https://www.youtube.com/@AlexandreCardoso)**: Alexandre Cardoso ‧ Independent Developer
