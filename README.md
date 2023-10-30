@@ -1,5 +1,5 @@
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: Laravel
-- **[@livewirephp](https://youtube.com/@LivewirePHP)**: Caleb Porzio ‧ Founder of Livewire
+- **[@livewirephp](https://www.youtube.com/@LivewirePHP)**: Caleb Porzio ‧ Founder of Livewire
 - **[@laracastsofficial](https://www.youtube.com/@laracastsofficial)**: Laracasts
 - **[@spatie](https://www.youtube.com/@spatie)**: Spatie
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Developer at Laravel
@@ -57,8 +57,9 @@
 - **[@laratips](https://www.youtube.com/@laratips)**: Ashish Dhamala ‧ Developer at SATs Companion
 - **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**: Imran Qasim ‧ Developer at Perfect Web Solutions
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: Ismael Catalá Gil ‧ Founder of El Rincón de Isma
-- **[@differdev](https://www.youtube.com/differdev)**: Leonardo Tumadjian ‧ Content Creator at DifferDev
-- **[@celke](https://www.youtube.com/@CelkeBr)**: Cesar Nicolau ‧ Founder of Celke
-- **[@amitavroydev](https://youtube.com/@amitavroydev)**: Amitav Roy ‧ Independent Developer
+- **[@differdev](https://www.youtube.com/@differdev)**: Leonardo Tumadjian ‧ Content Creator at DifferDev
+- **[@celkebr](https://www.youtube.com/@celkebr)**: Cesar Nicolau ‧ Founder of Celke
+- **[@amitavroydev](https://www.youtube.com/@amitavroydev)**: Amitav Roy ‧ Independent Developer
+- **[@rmsramos](https://www.youtube.com/@rmsramos)**: Rômulo Ramos ‧ Content Creator
 - **[@devtechtips](https://www.youtube.com/@devtechtips)**: Julio Cesar Urnau de Almeida ‧ CTO at Academia do Ecommerce
-- **[@davidconnelly](https://youtube.com/@davidconnelly)**: David Connelly ‧ Founder of Trongate
+- **[@davidconnelly](https://www.youtube.com/@davidconnelly)**: David Connelly ‧ Founder of Trongate
