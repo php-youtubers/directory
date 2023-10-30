@@ -15,7 +15,7 @@ foreach ($lines as $line) {
     }
 
     $youtubeHandle = substr($line, strpos($line, '[@') + 2, strpos($line, ']') - (strpos($line, '[@') + 2));
-    $url = substr($line, strpos($line, '(https://') + 9, strpos($line, ')') - (strpos($line, '(https://') + 9));
+    $url = substr($line, strpos($line, '(https://') + 1, strpos($line, ')**') - (strpos($line, '(https://') + 1));
     $descriptionAndName = substr($line, strpos($line, '**:') + 4);
 
 
@@ -36,9 +36,9 @@ $total = count($youtubers);
 $progress = 0;
 
 foreach ($youtubers as $index => $youtuber) {
-    $getChannelIdUrl = 'https://yt.lemnoslife.com/channels?handle=@' . $youtuber['youtubeHandle'];
-    $channelIdData = json_decode(file_get_contents($getChannelIdUrl), true);
-    $channelId = $channelIdData['items'][0]['id'];
+    preg_match('/channel_id=([a-zA-Z0-9_-]+)/', file_get_contents($youtuber['url']), $matches);
+    $channelId = $matches[1] ?? null;
+
     $json_url = "https://www.googleapis.com/youtube/v3/channels?part=statistics&id={$channelId}&key={$apiKey}";
     $data = json_decode(file_get_contents($json_url), true);
     $followers = $data['items'][0]['statistics']['subscriberCount'];
