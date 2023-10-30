@@ -28,7 +28,7 @@
 - **[@daltoncast](https://www.youtube.com/@daltoncast)**: Jordan Dalton ‧ Developer at Financial 
 - **[@dani_krossing](https://www.youtube.com/@dani_krossing)**: Dani Krossing - Independent Developer
 - **[@pinguimdolaravel](https://www.youtube.com/@pinguimdolaravel)**: Rafael Lunardelli ‧ Founder of Pinguim Academy
-- **[@tiojobs](https://www.youtube.com/@tiojobs)**: Icaro William ‧ Founder of MOB2YOU Tecnologia
+- **[@tiojobs](https://www.youtube.com/@tiojobs)**: Tio Jobs ‧ Founder of JOBS TREINAMENTOS
 - **[@dasundev](https://www.youtube.com/@dasundev)**: Dasun Tharanga ‧ Founder of Dasun Dev
 - **[@yoandevco](https://www.youtube.com/@yoandevco)**: Yoan Bernabeu ‧ Founder of YoanDev
 - **[@grafikart](https://www.youtube.com/@grafikart)**: Jonathan Boyer ‧ Independent Developer
@@ -54,3 +54,4 @@
 - **[@laratips](https://www.youtube.com/@laratips)**: Ashish Dhamala ‧ Developer at SATs Companion
 - **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**: Imran Qasim ‧ Developer at Perfect Web Solutions
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: Ismael Catalá Gil ‧ Founder of El Rincón de Isma
+- **[@differdev](https://www.youtube.com/differdev)**: Leonardo Tumadjian ‧ Content Creator at DifferDev
