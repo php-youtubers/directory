@@ -82,8 +82,8 @@ usort($list, function ($a, $b) {
 // Build the markdown.
 $lines = array_map(function ($item) {
     $line = sprintf("- **[%s](https://www.youtube.com/%s)**: %s",
-        $item['youtube_username'],
-        $item['youtube_username'],
+        $item['youtube_handle'],
+        $item['youtube_handle'],
         $item['name'],
     );
 
