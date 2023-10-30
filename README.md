@@ -40,6 +40,7 @@
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: Álvaro Jorge ‧ Founder of EuSeiPhp
 - **[@webmentor](https://www.youtube.com/@webmentorofc)**: Lucas Antônio ‧ Founder of Webmentor
 - **[@beerandcode](https://www.youtube.com/@beerandcode)**: Lucas Souza ‧ Co-Founder of Beer And Code
+- **[@jldrpt](https://www.youtube.com/@jldrpt)**: João Ribeiro ‧ Independent Developer
 - **[@alexandrecardoso](https://www.youtube.com/@alexandrecardoso)**: Alexandre Cardoso ‧ Independent Developer
 - **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: Tiago Matos ‧ Independent Developer
 - **[@diasdedev](https://www.youtube.com/@diasdedev)**: Vinicius Dias ‧ Software Engineer at SOCi
@@ -57,3 +58,6 @@
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: Ismael Catalá Gil ‧ Founder of El Rincón de Isma
 - **[@differdev](https://www.youtube.com/differdev)**: Leonardo Tumadjian ‧ Content Creator at DifferDev
 - **[@celke](https://www.youtube.com/@CelkeBr)**: Cesar Nicolau ‧ Founder of Celke
+- **[@amitavroydev](https://youtube.com/@amitavroydev)**: Amitav Roy ‧ Independent Developer
+- **[@devtechtips](https://www.youtube.com/@devtechtips)**: Julio Cesar Urnau de Almeida ‧ CTO at Academia do Ecommerce
+- **[@davidconnelly](https://youtube.com/@davidconnelly)**: David Connelly ‧ Founder of Trongate
