@@ -29,6 +29,9 @@
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: Icaro William ‧ Founder of MOB2YOU Tecnologia
 - **[@dasundev](https://www.youtube.com/@dasundev)**: Dasun Tharanga ‧ Founder of Dasun Dev
 - **[@yoandevco](https://www.youtube.com/@yoandevco)**: Yoan Bernabeu ‧ Founder of YoanDev
+- **[@grafikart](https://www.youtube.com/@grafikart)**: Jonathan Boyer ‧ Independent Developer
+- **[@toham](https://www.youtube.com/@toham)**: Thomas Boileau ‧ Independent Developer
+- **[@liorchamla](https://www.youtube.com/@liorchamla)**: Lior Chamla ‧ Independent Developer
 - **[@programwithgio](https://youtube.com/@programwithgio)**: Giorgi G ‧ Founder of Program With Gio
 - **[@garyclarketech](https://www.youtube.com/@garyclarketech)**: Gary Clarke - Founder of Gary Clarke Tech
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: Álvaro Jorge ‧ Founder of EuSeiPhp
