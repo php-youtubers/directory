@@ -48,3 +48,4 @@
 - **[@amitmerchant](https://www.youtube.com/@amitmerchant)**: Amit Merchant ‧ Developer at ValueLabs
 - **[@olliecodes](https://www.youtube.com/@olliecodes)**: Ollie Read ‧ Independent Developer
 - **[@thirus](https://www.youtube.com/@thirus)**: Shruti Balasa ‧ Independent Developer
+- **[@laratips](https://www.youtube.com/@laratips)**: Ashish Dhamala ‧ Developer at SATs Companion
