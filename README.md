@@ -4,6 +4,7 @@
 - **[@spatie](https://www.youtube.com/@spatie)**: Spatie
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ Developer at Laravel
 - **[@laraveldaily](https://www.youtube.com/@laraveldaily)**: Povilas Korop ‧ Founder of Laravel Daily
+- **[@filamentdaily](https://www.youtube.com/@filamentdaily)**: Povilas Korop ‧ Founder of Laravel Daily
 - **[@laravelnews](https://www.youtube.com/@laravelnews)**: Eric Barnes ‧ Founder of Laravel News
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: Marian Pop ‧ Founder of Laravel Magazine
 - **[@codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ Founder of Codecourse
