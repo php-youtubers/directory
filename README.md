@@ -59,4 +59,5 @@
 - **[@differdev](https://www.youtube.com/differdev)**: Leonardo Tumadjian ‧ Content Creator at DifferDev
 - **[@celke](https://www.youtube.com/@CelkeBr)**: Cesar Nicolau ‧ Founder of Celke
 - **[@amitavroydev](https://youtube.com/@amitavroydev)**: Amitav Roy ‧ Independent Developer
+- **[@devtechtips](https://www.youtube.com/@devtechtips)**: Julio Cesar Urnau de Almeida ‧ CTO at Academia do Ecommerce
 - **[@davidconnelly](https://youtube.com/@davidconnelly)**: David Connelly ‧ Founder of Trongate
