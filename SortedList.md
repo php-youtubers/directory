@@ -1,0 +1,62 @@
+- **[@euseiphp](https://www.youtube.com/@euseiphp)**: Álvaro Jorge ‧ under of EuSeiPhp
+- **[@themsaid](https://www.youtube.com/@themsaid)**: Mohamed Said ‧ dependent Developer
+- **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: Marian Pop ‧ under of Laravel Magazine
+- **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: Ismael Catalá Gil ‧ under of El Rincón de Isma
+- **[@fideloper](https://www.youtube.com/@fideloper)**: Chris Fidao ‧ veloper at Fly.io
+- **[@happytodev](https://www.youtube.com/@happytodev)**: Fred Blanc ‧ under of HappyToDev
+- **[@freekmurze](https://www.youtube.com/@freekmurze)**: Freek Van der Herten ‧ rtner at Spatie
+- **[@livewirephp](https://www.youtube.com/@livewirephp)**: Caleb Porzio ‧ under of Livewire
+- **[@mateusguimaraes](https://www.youtube.com/@mateusguimaraes)**: Mateus Guimarães ‧ veloper at ENTRE Institute
+- **[@codewithdary](https://www.youtube.com/@codewithdary)**: Dary Nazar ‧ under of Code with Dary
+- **[@juststeveking](https://www.youtube.com/@juststeveking)**: Steve King ‧ veloper Relations at Treblle
+- **[@pinguimdolaravel](https://www.youtube.com/@pinguimdolaravel)**: Rafael Lunardelli ‧ under of Pinguim Academy
+- **[@laracastsofficial](https://www.youtube.com/@laracastsofficial)**: Laracasts
+- **[@toham](https://www.youtube.com/@toham)**: Thomas Boileau ‧ dependent Developer
+- **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: Nuno Maduro ‧ veloper at Laravel
+- **[@dani_krossing](https://www.youtube.com/@dani_krossing)**: Dani Krossing ‧ dependent Developer
+- **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: Loris Leiva ‧ veloper at Solana Labs
+- **[@jldrpt](https://www.youtube.com/@jldrpt)**: João Ribeiro ‧ dependent Developer
+- **[@programwithgio](https://www.youtube.com/@programwithgio)**: Giorgi G ‧ under of Program With Gio
+- **[@liorchamla](https://www.youtube.com/@liorchamla)**: Lior Chamla ‧ dependent Developer
+- **[@96downlu](https://www.youtube.com/@96downlu)**: Luke Downing ‧ veloper at Pest PHP core team
+- **[@amitmerchant](https://www.youtube.com/@amitmerchant)**: Amit Merchant ‧ veloper at ValueLabs
+- **[@laravelnews](https://www.youtube.com/@laravelnews)**: Eric Barnes ‧ under of Laravel News
+- **[@adamwathan](https://www.youtube.com/@adamwathan)**: Adam Wathan ‧ -Founder of Tailwind CSS
+- **[@codecourse](https://www.youtube.com/@codecourse)**: Alex Garrett-Smith ‧ under of Codecourse
+- **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**: Imran Qasim ‧ veloper at Perfect Web Solutions
+- **[@phparch](https://www.youtube.com/@phparch)**: PHP Architect
+- **[@tiojobs](https://www.youtube.com/@tiojobs)**: Tio Jobs ‧ under of JOBS TREINAMENTOS
+- **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: Christoph Rumpel ‧ thor of Laravel Core Adventures
+- **[@aschmelyun](https://www.youtube.com/@aschmelyun)**: Andrew Schmelyun ‧ under of Indrio Labs
+- **[@laravelphp](https://www.youtube.com/@laravelphp)**: Laravel
+- **[@diasdedev](https://www.youtube.com/@diasdedev)**: Vinicius Dias ‧ ftware Engineer at SOCi
+- **[@grafikart](https://www.youtube.com/@grafikart)**: Jonathan Boyer ‧ dependent Developer
+- **[@pascalbaljet](https://www.youtube.com/@pascalbaljet)**: Pascal Baljet ‧ eator of Laravel Splade
+- **[@differdev](https://www.youtube.com/@differdev)**: Leonardo Tumadjian ‧ ntent Creator at DifferDev
+- **[@laraveljutsu](https://www.youtube.com/@laraveljutsu)**: Ludovic Guénet ‧ under of Laravel Jutsu
+- **[@thejasonmccreary](https://www.youtube.com/@thejasonmccreary)**: Jason McCreary ‧ under of Laravel Shift
+- **[@spatie](https://www.youtube.com/@spatie)**: Spatie
+- **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: Tiago Matos ‧ dependent Developer
+- **[@codewithburt](https://www.youtube.com/@codewithburt)**: Bert De Swaef ‧ veloper at Vulpo
+- **[@milwad](https://www.youtube.com/@milwad)**: Milwad ‧ under of Binafy
+- **[@amitavroydev](https://www.youtube.com/@amitavroydev)**: Amitav Roy ‧ dependent Developer
+- **[@webmentor](https://www.youtube.com/@webmentor)**: Lucas Antônio ‧ under of Webmentor
+- **[@alexandrecardoso](https://www.youtube.com/@alexandrecardoso)**: Alexandre Cardoso ‧ dependent Developer
+- **[@laratips](https://www.youtube.com/@laratips)**: Ashish Dhamala ‧ veloper at SATs Companion
+- **[@yoandevco](https://www.youtube.com/@yoandevco)**: Yoan Bernabeu ‧ under of YoanDev
+- **[@beerandcode](https://www.youtube.com/@beerandcode)**: Lucas Souza ‧ -Founder of Beer And Code
+- **[@philodev](https://www.youtube.com/@philodev)**: Philo Hermans ‧ under of Anystack
+- **[@olliecodes](https://www.youtube.com/@olliecodes)**: Ollie Read ‧ dependent Developer
+- **[@dasundev](https://www.youtube.com/@dasundev)**: Dasun Tharanga ‧ under of Dasun Dev
+- **[@laraveldaily](https://www.youtube.com/@laraveldaily)**: Povilas Korop ‧ under of Laravel Daily
+- **[@phpannotated](https://www.youtube.com/@phpannotated)**: Brent Roose ‧ veloper at JetBrains
+- **[@garyclarketech](https://www.youtube.com/@garyclarketech)**: Gary Clarke ‧ under of Gary Clarke Tech
+- **[@bitfumes](https://www.youtube.com/@bitfumes)**: Sarthak Shrivastava ‧ under of Bitfumes
+- **[@laravelonline](https://www.youtube.com/@laravelonline)**: Shane Rosenthal ‧ under of LaravelOnline
+- **[@daltoncast](https://www.youtube.com/@daltoncast)**: Jordan Dalton ‧ veloper at Financial
+- **[@aarondfrancis](https://www.youtube.com/@aarondfrancis)**: Aaron Francis ‧ veloper at PlanetScale
+- **[@laraphant](https://www.youtube.com/@laraphant)**: William Juma Misiko ‧ under of Laraphant
+- **[@thirus](https://www.youtube.com/@thirus)**: Shruti Balasa ‧ dependent Developer
+- **[@davidconnelly](https://www.youtube.com/@davidconnelly)**: David Connelly ‧ under of Trongate
+- **[@jackmcdade](https://www.youtube.com/@jackmcdade)**: Jack McDade ‧ -Founder of Statamic
+- **[@celke](https://www.youtube.com/@celke)**: Cesar Nicolau ‧ under of Celke
