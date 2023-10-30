@@ -1,0 +1,350 @@
+[
+  {
+    "name": "Laravel",
+    "position": null,
+    "youtube_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
+    "youtube_username": "@laravelphp"
+  },
+  {
+    "name": "Caleb Porzio",
+    "position": "Founder of Livewire",
+    "youtube_id": "UCOZzwlw1cmbrYRx4udFE0wQ",
+    "youtube_username": "@livewirephp"
+  },
+  {
+    "name": "Laracasts",
+    "position": null,
+    "youtube_id": "UC3s5g0_lyZYOu8Jjo27udAQ",
+    "youtube_username": "@laracastsofficial"
+  },
+  {
+    "name": "Spatie",
+    "position": null,
+    "youtube_id": "UCoBbei3S9JLTcS2VeEOWDeQ",
+    "youtube_username": "@spatie"
+  },
+  {
+    "name": "Nuno Maduro",
+    "position": "Developer at Laravel",
+    "youtube_id": "UCO_hYZF2gb_CyG5sA7ArlGg",
+    "youtube_username": "@nunomaduro"
+  },
+  {
+    "name": "Povilas Korop",
+    "position": "Founder of Laravel Daily",
+    "youtube_id": "UCTuplgOBi6tJIlesIboymGA",
+    "youtube_username": "@laraveldaily"
+  },
+  {
+    "name": "Eric Barnes",
+    "position": "Founder of Laravel News",
+    "youtube_id": "UC_HmfSCvAl_JaqdwN5YSVsg",
+    "youtube_username": "@laravelnews"
+  },
+  {
+    "name": "Alex Garrett-Smith",
+    "position": "Founder of Codecourse",
+    "youtube_id": "UCpOIUW62tnJTtpWFABxWZ8g",
+    "youtube_username": "@codecourse"
+  },
+  {
+    "name": "Dary Nazar",
+    "position": "Founder of Code with Dary",
+    "youtube_id": "UCkzGZ6ECGCBh0WK9bVUprtw",
+    "youtube_username": "@codewithdary"
+  },
+  {
+    "name": "Jason McCreary",
+    "position": "Founder of Laravel Shift",
+    "youtube_id": "UCwCWebPzwbxGNjAIlJNk06w",
+    "youtube_username": "@thejasonmccreary"
+  },
+  {
+    "name": "Christoph Rumpel",
+    "position": "Author of Laravel Core Adventures",
+    "youtube_id": "UCdtd5QYBx9MUVXHm7qgEpxA",
+    "youtube_username": "@christophrumpel"
+  },
+  {
+    "name": "Pascal Baljet",
+    "position": "Creator of Laravel Splade",
+    "youtube_id": "UCIttNYcazftklfmopuKgHnA",
+    "youtube_username": "@pascalbaljet"
+  },
+  {
+    "name": "Adam Wathan",
+    "position": "Co-Founder of Tailwind CSS",
+    "youtube_id": "UCy1H38XrN7hi7wHSClfXPqQ",
+    "youtube_username": "@adamwathan"
+  },
+  {
+    "name": "Jack McDade",
+    "position": "Co-Founder of Statamic",
+    "youtube_id": "UCynKEO-E1muvcV81fJSRwNw",
+    "youtube_username": "@jackmcdade"
+  },
+  {
+    "name": "Philo Hermans",
+    "position": "Founder of Anystack",
+    "youtube_id": "UCefmtXjWACp7z6mT3NE6URg",
+    "youtube_username": "@philodev"
+  },
+  {
+    "name": "Andrew Schmelyun",
+    "position": "Founder of Indrio Labs",
+    "youtube_id": "UCc07-IBVwRlOsMg2WMdd8Sg",
+    "youtube_username": "@aschmelyun"
+  },
+  {
+    "name": "Brent Roose",
+    "position": "Developer at JetBrains",
+    "youtube_id": "UChrO4N8wWVCnKDdjlBT5ZmQ",
+    "youtube_username": "@phpannotated"
+  },
+  {
+    "name": "Aaron Francis",
+    "position": "Developer at PlanetScale",
+    "youtube_id": "UCbixkBITOOa2XNviJLxMh2w",
+    "youtube_username": "@aarondfrancis"
+  },
+  {
+    "name": "Mateus Guimarães",
+    "position": "Developer at ENTRE Institute",
+    "youtube_id": "UCZXli3tyGCYn-FghmNJB7vw",
+    "youtube_username": "@mateusguimaraes"
+  },
+  {
+    "name": "PHP Architect",
+    "position": null,
+    "youtube_id": "UCUEzH08rDNBfljD9PGVZujg",
+    "youtube_username": "@phparch"
+  },
+  {
+    "name": "Shane Rosenthal",
+    "position": "Founder of LaravelOnline",
+    "youtube_id": "UC7IYUAGyT_inZX3JBYhlGtA",
+    "youtube_username": "@laravelonline"
+  },
+  {
+    "name": "Milwad",
+    "position": "Founder of Binafy",
+    "youtube_id": "UClbxZk9EdsuVxx26LXzPeZg",
+    "youtube_username": "@milwad"
+  },
+  {
+    "name": "Sarthak Shrivastava",
+    "position": "Founder of Bitfumes",
+    "youtube_id": "UC_hG9fglfmShkwex1KVydHA",
+    "youtube_username": "@bitfumes"
+  },
+  {
+    "name": "Steve King",
+    "position": "Developer Relations at Treblle",
+    "youtube_id": "UCBnj7HfncAygGeyymgydZxQ",
+    "youtube_username": "@juststeveking"
+  },
+  {
+    "name": "Chris Fidao",
+    "position": "Developer at Fly.io",
+    "youtube_id": "UCpTGoLayCreEIn61OCo1pBw",
+    "youtube_username": "@fideloper"
+  },
+  {
+    "name": "Luke Downing",
+    "position": "Developer at Pest PHP core team",
+    "youtube_id": "UCQIrK03uD-T69usLC8o3Spg",
+    "youtube_username": "@96downlu"
+  },
+  {
+    "name": "Freek Van der Herten",
+    "position": "Partner at Spatie",
+    "youtube_id": "UCNlUCA4VORBx8X-h-rXvXEg",
+    "youtube_username": "@freekmurze"
+  },
+  {
+    "name": "Jordan Dalton",
+    "position": "Developer at Financial",
+    "youtube_id": "UC56RF0fjU0IqHOaeZC5mwaA",
+    "youtube_username": "@daltoncast"
+  },
+  {
+    "name": "Dani Krossing",
+    "position": "Independent Developer",
+    "youtube_id": "UCzyuZJ8zZ-Lhfnz41DG5qLw",
+    "youtube_username": "@dani_krossing"
+  },
+  {
+    "name": "Rafael Lunardelli",
+    "position": "Founder of Pinguim Academy",
+    "youtube_id": "UCQvMasQi7VdeEYWy8u6BQQw",
+    "youtube_username": "@pinguimdolaravel"
+  },
+  {
+    "name": "Tio Jobs",
+    "position": "Founder of JOBS TREINAMENTOS",
+    "youtube_id": "UCM48Xq3s7MTEMYuWQkGdo2A",
+    "youtube_username": "@tiojobs"
+  },
+  {
+    "name": "Dasun Tharanga",
+    "position": "Founder of Dasun Dev",
+    "youtube_id": "UCMlmb-vf9wVRlRZVpccN2VQ",
+    "youtube_username": "@dasundev"
+  },
+  {
+    "name": "Yoan Bernabeu",
+    "position": "Founder of YoanDev",
+    "youtube_id": "UCRlsJWh1XwmNGxZPFgJ0Zlw",
+    "youtube_username": "@yoandevco"
+  },
+  {
+    "name": "Jonathan Boyer",
+    "position": "Independent Developer",
+    "youtube_id": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+    "youtube_username": "@grafikart"
+  },
+  {
+    "name": "Thomas Boileau",
+    "position": "Independent Developer",
+    "youtube_id": "UCpMntmV07jvZMK3fqR196QQ",
+    "youtube_username": "@toham"
+  },
+  {
+    "name": "Lior Chamla",
+    "position": "Independent Developer",
+    "youtube_id": "UCS71mal_TkTW_PpZR9YLpIA",
+    "youtube_username": "@liorchamla"
+  },
+  {
+    "name": "Giorgi G",
+    "position": "Founder of Program With Gio",
+    "youtube_id": "UCNoeG15U4pLBrFVHTw3xByw",
+    "youtube_username": "@programwithgio"
+  },
+  {
+    "name": "Gary Clarke",
+    "position": "Founder of Gary Clarke Tech",
+    "youtube_id": "UCA2dkCp5DZj7HE0-6IX5ZHQ",
+    "youtube_username": "@garyclarketech"
+  },
+  {
+    "name": "Álvaro Jorge",
+    "position": "Founder of EuSeiPhp",
+    "youtube_id": "UCBrFES5uEn7L6JDwHaGcSYA",
+    "youtube_username": "@euseiphp"
+  },
+  {
+    "name": "Lucas Antônio",
+    "position": "Founder of Webmentor",
+    "youtube_id": "UCBVgC4vyS9LUVbWE_o6LmtQ",
+    "youtube_username": "@webmentor"
+  },
+  {
+    "name": "Lucas Souza",
+    "position": "Co-Founder of Beer And Code",
+    "youtube_id": "UCtz8hxpbicBe8REEdEtAYWA",
+    "youtube_username": "@beerandcode"
+  },
+  {
+    "name": "Alexandre Cardoso",
+    "position": "Independent Developer",
+    "youtube_id": "UCR26qtZ2AUqh2Tdx0ep6lQg",
+    "youtube_username": "@alexandrecardoso"
+  },
+  {
+    "name": "Tiago Matos",
+    "position": "Independent Developer",
+    "youtube_id": "UCXUWGUoYNwtRxaRPoB4KocA",
+    "youtube_username": "@tiagomatosweb"
+  },
+  {
+    "name": "Vinicius Dias",
+    "position": "Software Engineer at SOCi",
+    "youtube_id": "UCg1nJKjie4vb8FILBbv3F6A",
+    "youtube_username": "@diasdedev"
+  },
+  {
+    "name": "Fred Blanc",
+    "position": "Founder of HappyToDev",
+    "youtube_id": "UCEvgUSS6r70F0cFcYkJ5MpQ",
+    "youtube_username": "@happytodev"
+  },
+  {
+    "name": "Ludovic Guénet",
+    "position": "Founder of Laravel Jutsu",
+    "youtube_id": "UC36hi0WMeiR8HpUy-A2s4vQ",
+    "youtube_username": "@laraveljutsu"
+  },
+  {
+    "name": "William Juma Misiko",
+    "position": "Founder of Laraphant",
+    "youtube_id": "UCJWvaGdaD01mFsN3Ca0jugA",
+    "youtube_username": "@laraphant"
+  },
+  {
+    "name": "Bert De Swaef",
+    "position": "Developer at Vulpo",
+    "youtube_id": "UCiSGXbul7MoSsG2CVGwCjUQ",
+    "youtube_username": "@codewithburt"
+  },
+  {
+    "name": "Loris Leiva",
+    "position": "Developer at Solana Labs",
+    "youtube_id": "UCUO1du7KyhmCmjVIONIcq9A",
+    "youtube_username": "@lorisleiva"
+  },
+  {
+    "name": "Mohamed Said",
+    "position": "Independent Developer",
+    "youtube_id": "UCOcg7do7yccfY412KBm6bhA",
+    "youtube_username": "@themsaid"
+  },
+  {
+    "name": "Amit Merchant",
+    "position": "Developer at ValueLabs",
+    "youtube_id": "UC3RakdxxBKPf5b02npPrjWw",
+    "youtube_username": "@amitmerchant"
+  },
+  {
+    "name": "Ollie Read",
+    "position": "Independent Developer",
+    "youtube_id": "UCs0LpfvshuxirY4Z1uqBfCw",
+    "youtube_username": "@olliecodes"
+  },
+  {
+    "name": "Shruti Balasa",
+    "position": "Independent Developer",
+    "youtube_id": "UCDQTzZ871T7uJpx9yeMPhAw",
+    "youtube_username": "@thirus"
+  },
+  {
+    "name": "Ashish Dhamala",
+    "position": "Developer at SATs Companion",
+    "youtube_id": "UCBI6pjkL1DpexvG4Mcvjyow",
+    "youtube_username": "@laratips"
+  },
+  {
+    "name": "Imran Qasim",
+    "position": "Developer at Perfect Web Solutions",
+    "youtube_id": "UCjM2CgqAXgXQuFjJa732IRw",
+    "youtube_username": "@perfectwebsolutions"
+  },
+  {
+    "name": "Ismael Catalá Gil",
+    "position": "Founder of El Rincón de Isma",
+    "youtube_id": "UC-IxcQo3RGV6pAsmYpSKPEw",
+    "youtube_username": "@elrincondeisma"
+  },
+  {
+    "name": "Leonardo Tumadjian",
+    "position": "Content Creator at DifferDev",
+    "youtube_id": "UC3k1OluPr0VPnwKmkfvwrPg",
+    "youtube_username": "@differdev"
+  },
+  {
+    "name": "Cesar Nicolau",
+    "position": "Founder of Celke",
+    "youtube_id": "UC5ClMRHFl8o_MAaO4w7ZYug",
+    "youtube_username": "@CelkeBr"
+  }
+]
