@@ -23,3 +23,4 @@
 - **[@dasundev](https://www.youtube.com/@dasundev)**: Dasun Tharanga ‧ Founder of Dasun Dev
 - **[@yoandevco](https://www.youtube.com/@yoandevco)**: Yoan Bernabeu ‧ Founder of YoanDev
 - **[@programwithgio](https://youtube.com/@programwithgio)**: Giorgi G ‧ Founder of Program With Gio
+- **[@GaryClarkeTech](https://www.youtube.com/@GaryClarkeTech)**: Gary Clarke - Founder of Gary Clarke Tech
