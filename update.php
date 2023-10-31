@@ -54,13 +54,26 @@ uasort($youtubers, function ($a, $b) {
     return $b['followers'] <=> $a['followers'];
 });
 
+function followersCount($count) {
+    if ($count > 1000000) {
+        return round($count / 1000000, 1) . 'M';
+    }
+
+    if ($count > 1000) {
+        return round($count / 1000, 1) . 'K';
+    }
+
+    return $count;
+}
+
 $sortedList = '';
 foreach ($youtubers as $youtuber) {
     if ($youtuber['name'] !== null) {
-        $description = "{$youtuber['name']} ‧ {$youtuber['description']}";
+        $description = followersCount($youtuber['followers']) . " ‧ {$youtuber['name']} ‧ {$youtuber['description']}";
     } else {
-        $description = $youtuber['description'];
+        $description = followersCount($youtuber['followers']) . " ‧ ". $youtuber['description'];
     }
+
     $sortedList .= "- **[@{$youtuber['handle']}](https://www.youtube.com/@{$youtuber['handle']})**: {$description}\n";
 }
 
