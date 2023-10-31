@@ -27,6 +27,7 @@
 - **[@thirus](https://www.youtube.com/@thirus)**: 11.3K ‧ Shruti Balasa ‧ Independent Developer
 - **[@davidconnelly](https://www.youtube.com/@davidconnelly)**: 11K ‧ David Connelly ‧ Founder of Trongate
 - **[@themsaid](https://www.youtube.com/@themsaid)**: 8K ‧ Mohamed Said ‧ Independent Developer
+- **[@mattstauffer](https://www.youtube.com/@mattstauffer)**: 7.7K ‧ Matt Stauffer ‧ Founder of Tighten
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: 7.2K ‧ Ismael Catalá Gil ‧ Founder of El Rincón de Isma
 - **[@freekmurze](https://www.youtube.com/@freekmurze)**: 6.9K ‧ Freek Van der Herten ‧ Partner at Spatie
 - **[@mateusguimaraes](https://www.youtube.com/@mateusguimaraes)**: 5.6K ‧ Mateus Guimarães ‧ Developer at ENTRE Institute
