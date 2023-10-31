@@ -3,8 +3,9 @@
 - **[@grafikart](https://www.youtube.com/@grafikart)**: 282K ‧ Jonathan Boyer ‧ Independent Developer
 - **[@laraveldaily](https://www.youtube.com/@laraveldaily)**: 130K ‧ Povilas Korop ‧ Founder of Laravel Daily
 - **[@bitfumes](https://www.youtube.com/@bitfumes)**: 126K ‧ Sarthak Shrivastava ‧ Founder of Bitfumes
+- **[@TheCodeholic](https://www.youtube.com/@TheCodeholic)**: 66.6K ‧ Zura Sekhniashvili ‧ Founder of The Codeholic
 - **[@codewithdary](https://www.youtube.com/@codewithdary)**: 53.8K ‧ Dary Nazar ‧ Founder of Code with Dary
-- **[@celkebr](https://www.youtube.com/@celkebr)**: 51.3K ‧ Cesar Nicolau ‧ Founder of Celke
+- **[@celkebr](https://www.youtube.com/@celkebr)**: 51.4K ‧ Cesar Nicolau ‧ Founder of Celke
 - **[@laracastsofficial](https://www.youtube.com/@laracastsofficial)**: 46.2K ‧ Laracasts
 - **[@jldrpt](https://www.youtube.com/@jldrpt)**: 44.5K ‧ João Ribeiro ‧ Independent Developer
 - **[@programwithgio](https://www.youtube.com/@programwithgio)**: 42.7K ‧ Giorgi G ‧ Founder of Program With Gio
@@ -52,14 +53,14 @@
 - **[@daltoncast](https://www.youtube.com/@daltoncast)**: 1.3K ‧ Jordan Dalton ‧ Developer at Financial
 - **[@laraphant](https://www.youtube.com/@laraphant)**: 1.2K ‧ William Juma Misiko ‧ Founder of Laraphant
 - **[@jackmcdade](https://www.youtube.com/@jackmcdade)**: 1.1K ‧ Jack McDade ‧ Co-Founder of Statamic
-- **[@euseiphp](https://www.youtube.com/@euseiphp)**: 932 ‧ Álvaro Jorge ‧ Founder of EuSeiPhp
-- **[@fideloper](https://www.youtube.com/@fideloper)**: 702 ‧ Chris Fidao ‧ Developer at Fly.io
+- **[@euseiphp](https://www.youtube.com/@euseiphp)**: 934 ‧ Álvaro Jorge ‧ Founder of EuSeiPhp
+- **[@fideloper](https://www.youtube.com/@fideloper)**: 700 ‧ Chris Fidao ‧ Developer at Fly.io
 - **[@happytodev](https://www.youtube.com/@happytodev)**: 693 ‧ Fred Blanc ‧ Founder of HappyToDev
-- **[@rmsramos](https://www.youtube.com/@rmsramos)**: 613 ‧ Rômulo Ramos ‧ Content Creator
-- **[@livewirephp](https://www.youtube.com/@livewirephp)**: 582 ‧ Caleb Porzio ‧ Founder of Livewire
+- **[@rmsramos](https://www.youtube.com/@rmsramos)**: 615 ‧ Rômulo Ramos ‧ Content Creator
+- **[@livewirephp](https://www.youtube.com/@livewirephp)**: 584 ‧ Caleb Porzio ‧ Founder of Livewire
 - **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: 446 ‧ Loris Leiva ‧ Developer at Solana Labs
 - **[@96downlu](https://www.youtube.com/@96downlu)**: 401 ‧ Luke Downing ‧ Developer at Pest PHP core team
 - **[@amitmerchant](https://www.youtube.com/@amitmerchant)**: 392 ‧ Amit Merchant ‧ Developer at ValueLabs
-- **[@milwad](https://www.youtube.com/@milwad)**: 171 ‧ Milwad ‧ Founder of Binafy
+- **[@milwad](https://www.youtube.com/@milwad)**: 169 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 161 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 72 ‧ Marian Pop ‧ Founder of Laravel Magazine
