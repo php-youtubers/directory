@@ -1,3 +1,4 @@
+- **[@cursoemvideo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)**: 2.2M . Gustavo Guanabara . Founder Curso em Vídeo
 - **[@dani_krossing](https://www.youtube.com/@dani_krossing)**: 448K ‧ Dani Krossing ‧ Independent Developer
 - **[@codecourse](https://www.youtube.com/@codecourse)**: 342K ‧ Alex Garrett-Smith ‧ Founder of Codecourse
 - **[@grafikart](https://www.youtube.com/@grafikart)**: 282K ‧ Jonathan Boyer ‧ Independent Developer
@@ -13,6 +14,7 @@
 - **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**: 33K ‧ Imran Qasim ‧ Developer at Perfect Web Solutions
 - **[@aschmelyun](https://www.youtube.com/@aschmelyun)**: 29.1K ‧ Andrew Schmelyun ‧ Founder of Indrio Labs
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: 28.9K ‧ Laravel
+- **[@diasdedev](https://www.youtube.com/c/DiasdeDev)**: 28.9K . Vinicius Dias . Independent Developer
 - **[@diasdedev](https://www.youtube.com/@diasdedev)**: 28.9K ‧ Vinicius Dias ‧ Software Engineer at SOCi
 - **[@laraveljutsu](https://www.youtube.com/@laraveljutsu)**: 22.9K ‧ Ludovic Guénet ‧ Founder of Laravel Jutsu
 - **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: 18.7K ‧ Tiago Matos ‧ Independent Developer
@@ -35,6 +37,7 @@
 - **[@toham](https://www.youtube.com/@toham)**: 4.6K ‧ Thomas Boileau ‧ Independent Developer
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: 4.5K ‧ Nuno Maduro ‧ Developer at Laravel
 - **[@laravelnews](https://www.youtube.com/@laravelnews)**: 3.6K ‧ Eric Barnes ‧ Founder of Laravel News
+- **[@cabradev](https://www.youtube.com/@dersonsena-cabradev)**: 3.6K . Kilderson Sena . Developer Yii Academy
 - **[@devtechtips](https://www.youtube.com/@devtechtips)**: 3.6K ‧ Julio Cesar Urnau de Almeida ‧ CTO at Academia do Ecommerce
 - **[@phparch](https://www.youtube.com/@phparch)**: 3.3K ‧ PHP Architect
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: 3.2K ‧ Tio Jobs ‧ Founder of JOBS TREINAMENTOS
