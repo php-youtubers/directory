@@ -70,3 +70,4 @@
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 161 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 72 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@simonhamp](https://www.youtube.com/@simonhamp)**: 53 ‧ Simon Hamp ‧ Developer at Tighten
+- **[@filamentbr](https://www.youtube.com/@simonhamp)**: 631 ‧ Leandro Ferreira ‧ Content Creator at Filament Brasil
