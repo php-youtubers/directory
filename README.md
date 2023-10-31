@@ -63,3 +63,5 @@
 - **[@milwad](https://www.youtube.com/@milwad)**: 171 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 161 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 72 ‧ Marian Pop ‧ Founder of Laravel Magazine
+- **[@yelocode](https://www.youtube.com/@yelocode)**: 6.5k . Martin ‧ Independent Developer
+- **[@drehimself](https://www.youtube.com/@drehimself)**: 52.9k . Andre Madarang ‧ Independent Developer
