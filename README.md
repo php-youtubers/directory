@@ -12,6 +12,7 @@
 - **[@liorchamla](https://www.youtube.com/@liorchamla)**: 40.9K ‧ Lior Chamla ‧ Independent Developer
 - **[@adamwathan](https://www.youtube.com/@adamwathan)**: 35K ‧ Adam Wathan ‧ Co-Founder of Tailwind CSS
 - **[@perfectwebsolutions](https://www.youtube.com/@perfectwebsolutions)**: 33K ‧ Imran Qasim ‧ Developer at Perfect Web Solutions
+- **[@laraconeu](https://www.youtube.com/@laraconeu)**: 29.7K ‧ Laracon EU
 - **[@aschmelyun](https://www.youtube.com/@aschmelyun)**: 29.1K ‧ Andrew Schmelyun ‧ Founder of Indrio Labs
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: 28.9K ‧ Laravel
 - **[@diasdedev](https://www.youtube.com/@diasdedev)**: 28.9K ‧ Vinicius Dias ‧ Software Engineer at SOCi
@@ -57,7 +58,7 @@
 - **[@laraphant](https://www.youtube.com/@laraphant)**: 1.2K ‧ William Juma Misiko ‧ Founder of Laraphant
 - **[@jackmcdade](https://www.youtube.com/@jackmcdade)**: 1.1K ‧ Jack McDade ‧ Co-Founder of Statamic
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: 934 ‧ Álvaro Jorge ‧ Founder of EuSeiPhp
-- **[@fideloper](https://www.youtube.com/@fideloper)**: 710 ‧ Chris Fidao ‧ Developer at Fly.io
+- **[@fideloper](https://www.youtube.com/@fideloper)**: 713 ‧ Chris Fidao ‧ Developer at Fly.io
 - **[@happytodev](https://www.youtube.com/@happytodev)**: 692 ‧ Fred Blanc ‧ Founder of HappyToDev
 - **[@rmsramos](https://www.youtube.com/@rmsramos)**: 617 ‧ Rômulo Ramos ‧ Content Creator
 - **[@livewirephp](https://www.youtube.com/@livewirephp)**: 587 ‧ Caleb Porzio ‧ Founder of Livewire
