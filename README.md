@@ -63,3 +63,6 @@
 - **[@milwad](https://www.youtube.com/@milwad)**: 171 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 161 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 72 ‧ Marian Pop ‧ Founder of Laravel Magazine
+- **[@codeexpers](https://www.youtube.com/@codeexperts)**: Nanderson Castro ‧ Content Creator
+- **[@wdevoficial](https://www.youtube.com/@wdevoficial)**: Willian Costa ‧ Content Creator
+- **[@85bitsdeveloper](https://www.youtube.com/@85bitsdeveloper)**: Celso Fontes ‧ Content Creator
