@@ -6,48 +6,74 @@ $content = file_get_contents('README.md');
 $lines = explode("\n", $content);
 $youtubers = [];
 
-foreach ($lines as $line) {
-    if (empty($line = trim($line))) {
-        continue;
-    }
+function getFollowers($url, $apiKey)
+{
+    // Retrieve followers using API
+    preg_match('/channel_id=([a-zA-Z0-9_-]+)/', file_get_contents($url), $matches);
+    $channelId = $matches[1] ?? null;
 
+    $json_url = "https://www.googleapis.com/youtube/v3/channels?part=statistics&id={$channelId}&key={$apiKey}";
+    $data = json_decode(file_get_contents($json_url), true);
+
+    return $data['items'][0]['statistics']['subscriberCount'];
+}
+
+function parseWithFollowers($line, $apiKey): array
+{
     $handle = substr($line, strpos($line, '[@') + 2, strpos($line, ']') - (strpos($line, '[@') + 2));
     $url = substr($line, strpos($line, '(https://') + 1, strpos($line, ')**') - (strpos($line, '(https://') + 1));
+
+    $segments = explode(' ‧ ', substr($line, strpos($line, '**:') + 4));
+    $description = null;
+    $name = null;
+
+    if(count($segments) === 3) {
+        // Line Format: followers ‧ name ‧ description
+        $name = $segments[1] ?? null;
+        $description = $segments[2] ?? null;
+    } elseif(count($segments) === 2) {
+        // Line Format: followers ‧ description
+        $description = $segments[1] ?? null;
+    }
+
+    $followers = getFollowers($url, $apiKey);
+
+    return compact('handle', 'url', 'name', 'description', 'followers');
+}
+
+function parseWithoutFollowers($line, $apiKey): array
+{
+    $handle = substr($line, strpos($line, '[@') + 2, strpos($line, ']') - (strpos($line, '[@') + 2));
+    $url = substr($line, strpos($line, '(https://') + 1, strpos($line, ')**') - (strpos($line, '(https://') + 1));
+
     $descriptionAndName = substr($line, strpos($line, '**:') + 4);
 
     $splitPos = strpos($descriptionAndName, ' ‧ ');
 
     if ($splitPos !== false) {
         $name = substr($descriptionAndName, 0, $splitPos);
-        $description = substr($descriptionAndName, $splitPos + 5);
+        $description = substr($descriptionAndName, $splitPos + 3);
     } else {
         $name = null;
         $description = $descriptionAndName;
     }
 
-    $youtubers[] = compact('handle', 'url', 'name', 'description');
+    $followers = getFollowers($url, $apiKey);
+
+    return compact('handle', 'url', 'name', 'description', 'followers');
 }
 
-$total = count($youtubers);
-$progress = 0;
 
-foreach ($youtubers as $index => $youtuber) {
-    preg_match('/channel_id=([a-zA-Z0-9_-]+)/', file_get_contents($youtuber['url']), $matches);
-    $channelId = $matches[1] ?? null;
+foreach ($lines as $line) {
+    if (empty($line = trim($line))) {
+        continue;
+    }
 
-    $json_url = "https://www.googleapis.com/youtube/v3/channels?part=statistics&id={$channelId}&key={$apiKey}";
-    $data = json_decode(file_get_contents($json_url), true);
-    $followers = $data['items'][0]['statistics']['subscriberCount'];
-
-    $youtubers[$index]['channelId'] = $channelId;
-    $youtubers[$index]['followers'] = $followers;
-
-    $progress++;
-    echo "\r[";
-    $barSize = (int) round($progress / $total * 50);
-    echo str_repeat('⏳', $barSize);
-    echo str_repeat(' ', 50 - $barSize);
-    echo ']';
+    if (preg_match('/[0-9.]*[KM]? ‧/i', $line)) {
+        $youtubers[] = parseWithFollowers($line, $apiKey);
+    } else {
+        $youtubers[] = parseWithoutFollowers($line, $apiKey);
+    }
 }
 
 uasort($youtubers, function ($a, $b) {
