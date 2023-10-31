@@ -1,6 +1,6 @@
 <?php
 
-$apiKey = 'AIzaSyBirL9XMWHNxuVUUGPBdSqu9UxqcY06dVo';
+$apiKey = '';
 
 $content = file_get_contents('README.md');
 $lines = explode("\n", $content);
