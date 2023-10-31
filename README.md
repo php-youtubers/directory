@@ -16,7 +16,6 @@
 - **[@laraconeu](https://www.youtube.com/@laraconeu)**: 29.7K ‧ Laracon EU
 - **[@aschmelyun](https://www.youtube.com/@aschmelyun)**: 29.1K ‧ Andrew Schmelyun ‧ Founder of Indrio Labs
 - **[@laravelphp](https://www.youtube.com/@laravelphp)**: 28.9K ‧ Laravel
-- **[@diasdedev](https://www.youtube.com/c/DiasdeDev)**: 28.9K . Vinicius Dias . Independent Developer
 - **[@diasdedev](https://www.youtube.com/@diasdedev)**: 28.9K ‧ Vinicius Dias ‧ Software Engineer at SOCi
 - **[@laraveljutsu](https://www.youtube.com/@laraveljutsu)**: 22.9K ‧ Ludovic Guénet ‧ Founder of Laravel Jutsu
 - **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: 18.8K ‧ Tiago Matos ‧ Independent Developer
