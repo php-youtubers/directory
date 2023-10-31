@@ -3,6 +3,7 @@
 - **[@grafikart](https://www.youtube.com/@grafikart)**: 282K ‧ Jonathan Boyer ‧ Independent Developer
 - **[@laraveldaily](https://www.youtube.com/@laraveldaily)**: 130K ‧ Povilas Korop ‧ Founder of Laravel Daily
 - **[@bitfumes](https://www.youtube.com/@bitfumes)**: 126K ‧ Sarthak Shrivastava ‧ Founder of Bitfumes
+- **[@teachersdunet](https://www.youtube.com/@Teachersdunet)**: 112K ‧ Honoré Hounwanou ‧ Teacher at Teachers du Net
 - **[@codewithdary](https://www.youtube.com/@codewithdary)**: 53.8K ‧ Dary Nazar ‧ Founder of Code with Dary
 - **[@celkebr](https://www.youtube.com/@celkebr)**: 51.3K ‧ Cesar Nicolau ‧ Founder of Celke
 - **[@laracastsofficial](https://www.youtube.com/@laracastsofficial)**: 46.2K ‧ Laracasts
