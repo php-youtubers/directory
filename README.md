@@ -63,3 +63,4 @@
 - **[@rmsramos](https://www.youtube.com/@rmsramos)**: Rômulo Ramos ‧ Content Creator
 - **[@devtechtips](https://www.youtube.com/@devtechtips)**: Julio Cesar Urnau de Almeida ‧ CTO at Academia do Ecommerce
 - **[@davidconnelly](https://www.youtube.com/@davidconnelly)**: David Connelly ‧ Founder of Trongate
+- **[@thecodeholic](https://www.youtube.com/@TheCodeholic)**: Zura ‧ Founder of The Codeholic
