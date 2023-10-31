@@ -60,6 +60,7 @@
 - **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: 446 ‧ Loris Leiva ‧ Developer at Solana Labs
 - **[@96downlu](https://www.youtube.com/@96downlu)**: 401 ‧ Luke Downing ‧ Developer at Pest PHP core team
 - **[@amitmerchant](https://www.youtube.com/@amitmerchant)**: 392 ‧ Amit Merchant ‧ Developer at ValueLabs
+- **[@jacked-php](https://www.youtube.com/@jacked-php)**: 244 ‧ Savio Resende ‧ Independent Developer
 - **[@milwad](https://www.youtube.com/@milwad)**: 171 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 161 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 72 ‧ Marian Pop ‧ Founder of Laravel Magazine
