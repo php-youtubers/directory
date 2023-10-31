@@ -2,34 +2,30 @@
 
 $apiKey = 'AIzaSyBirL9XMWHNxuVUUGPBdSqu9UxqcY06dVo';
 
-// Read README.md content
-$readmeContent = file_get_contents('README.md');
-$lines = explode("\n", $readmeContent);
+$content = file_get_contents('README.md');
+$lines = explode("\n", $content);
 $youtubers = [];
 
 foreach ($lines as $line) {
-    $line = trim($line);
-
-    if (empty($line)) {
+    if (empty($line = trim($line))) {
         continue;
     }
 
-    $youtubeHandle = substr($line, strpos($line, '[@') + 2, strpos($line, ']') - (strpos($line, '[@') + 2));
+    $handle = substr($line, strpos($line, '[@') + 2, strpos($line, ']') - (strpos($line, '[@') + 2));
     $url = substr($line, strpos($line, '(https://') + 1, strpos($line, ')**') - (strpos($line, '(https://') + 1));
     $descriptionAndName = substr($line, strpos($line, '**:') + 4);
-
 
     $splitPos = strpos($descriptionAndName, ' ‧ ');
 
     if ($splitPos !== false) {
-        $namePart = substr($descriptionAndName, 0, $splitPos);
+        $name = substr($descriptionAndName, 0, $splitPos);
         $description = substr($descriptionAndName, $splitPos + 5);
     } else {
-        $namePart = null;
+        $name = null;
         $description = $descriptionAndName;
     }
 
-    $youtubers[] = compact ('youtubeHandle', 'url', 'namePart', 'description');
+    $youtubers[] = compact('handle', 'url', 'name', 'description');
 }
 
 $total = count($youtubers);
@@ -42,7 +38,7 @@ foreach ($youtubers as $index => $youtuber) {
     $json_url = "https://www.googleapis.com/youtube/v3/channels?part=statistics&id={$channelId}&key={$apiKey}";
     $data = json_decode(file_get_contents($json_url), true);
     $followers = $data['items'][0]['statistics']['subscriberCount'];
-    
+
     $youtubers[$index]['channelId'] = $channelId;
     $youtubers[$index]['followers'] = $followers;
 
@@ -54,22 +50,18 @@ foreach ($youtubers as $index => $youtuber) {
     echo ']';
 }
 
-
-uasort($youtubers, function($a, $b) {
+uasort($youtubers, function ($a, $b) {
     return $b['followers'] <=> $a['followers'];
 });
 
 $sortedList = '';
 foreach ($youtubers as $youtuber) {
-    if ($youtuber['namePart'] !== null) {
-        $description = "{$youtuber['namePart']} ‧ {$youtuber['description']}";
+    if ($youtuber['name'] !== null) {
+        $description = "{$youtuber['name']} ‧ {$youtuber['description']}";
     } else {
         $description = $youtuber['description'];
     }
-    $sortedList .= "- **[@{$youtuber['youtubeHandle']}](https://www.youtube.com/@{$youtuber['youtubeHandle']})**: {$description}\n";
+    $sortedList .= "- **[@{$youtuber['handle']}](https://www.youtube.com/@{$youtuber['handle']})**: {$description}\n";
 }
 
-
-file_put_contents('SortedList.md', $sortedList);
-
-
+file_put_contents('README.md', $sortedList);
