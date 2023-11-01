@@ -47,6 +47,7 @@
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: 3.2K ‧ Tio Jobs ‧ Founder of JOBS TREINAMENTOS
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: 2.9K ‧ Christoph Rumpel ‧ Author of Laravel Core Adventures
 - **[@filamentdaily](https://www.youtube.com/@filamentdaily)**: 2.8K ‧ Povilas Korop ‧ Founder of Laravel Daily
+- **[@andrewcairns](https://www.youtube.com/@andrewcairns)**: 2.7K ‧ Andrew Cairns ‧ Independent Developer
 - **[@pascalbaljet](https://www.youtube.com/@pascalbaljet)**: 2.4K ‧ Pascal Baljet ‧ Creator of Laravel Splade
 - **[@differdev](https://www.youtube.com/@differdev)**: 2.4K ‧ Leonardo Tumadjian ‧ Content Creator at DifferDev
 - **[@thejasonmccreary](https://www.youtube.com/@thejasonmccreary)**: 2.2K ‧ Jason McCreary ‧ Founder of Laravel Shift
@@ -70,7 +71,7 @@
 - **[@96downlu](https://www.youtube.com/@96downlu)**: 402 ‧ Luke Downing ‧ Developer at Pest PHP core team
 - **[@amitmerchant](https://www.youtube.com/@amitmerchant)**: 397 ‧ Amit Merchant ‧ Developer at ValueLabs
 - **[@dcblogdev](https://www.youtube.com/@dcblogdev)**: 342 ‧ Developer at dcblog.dev
-- **[@laravelschool](https://www.youtube.com/@laravelschool)**: 333 ‧ Thouhedul Islam ‧ Independent Developer
+- **[@laravelschool](https://www.youtube.com/@laravelschool)**: 334 ‧ Thouhedul Islam ‧ Independent Developer
 - **[@milwad](https://www.youtube.com/@milwad)**: 173 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 163 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 76 ‧ Marian Pop ‧ Founder of Laravel Magazine
