@@ -34,6 +34,7 @@
 - **[@mattstauffer](https://www.youtube.com/@mattstauffer)**: 7.7K ‧ Matt Stauffer ‧ Founder of Tighten
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: 7.2K ‧ Ismael Catalá Gil ‧ Founder of El Rincón de Isma
 - **[@freekmurze](https://www.youtube.com/@freekmurze)**: 6.9K ‧ Freek Van der Herten ‧ Partner at Spatie
+- **[@ThibaudDauce](https://www.youtube.com/@ThibaudDauce)**: 5.7K ‧ Thibaud Dauce ‧ Independent Developer
 - **[@mateusguimaraes](https://www.youtube.com/@mateusguimaraes)**: 5.6K ‧ Mateus Guimarães ‧ Developer at ENTRE Institute
 - **[@juststeveking](https://www.youtube.com/@juststeveking)**: 5.3K ‧ Steve King ‧ Developer Relations at Treblle
 - **[@pinguimdolaravel](https://www.youtube.com/@pinguimdolaravel)**: 5.3K ‧ Rafael Lunardelli ‧ Founder of Pinguim Academy
