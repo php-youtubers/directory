@@ -46,7 +46,7 @@
 - **[@devtechtips](https://www.youtube.com/@devtechtips)**: 3.6K ‧ Julio Cesar Urnau de Almeida ‧ CTO at Academia do Ecommerce
 - **[@saaslaravel](https://www.youtube.com/@saaslaravel)**: 3.5K ‧ Przemysław Przyłucki ‧ Content Creator
 - **[@phparch](https://www.youtube.com/@phparch)**: 3.3K ‧ PHP Architect
-- **[@cabradev](https://www.youtube.com/@cabradev)**: 3.3K ‧ Kilderson Sena ‧ Developer at Yii Academy
+- **[@dersonsena-cabradev](https://www.youtube.com/@dersonsena-cabradev)**: 3.3K ‧ Kilderson Sena ‧ Developer at Yii Academy
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: 3.2K ‧ Tio Jobs ‧ Founder of JOBS TREINAMENTOS
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: 2.9K ‧ Christoph Rumpel ‧ Author of Laravel Core Adventures
 - **[@filamentdaily](https://www.youtube.com/@filamentdaily)**: 2.8K ‧ Povilas Korop ‧ Founder of Laravel Daily
