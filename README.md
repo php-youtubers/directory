@@ -67,6 +67,7 @@
 - **[@fideloper](https://www.youtube.com/@fideloper)**: 739 ‧ Chris Fidao ‧ Developer at Fly.io
 - **[@phpugly](https://www.youtube.com/@phpugly)**: 710 ‧ PHPUgly
 - **[@happytodev](https://www.youtube.com/@happytodev)**: 695 ‧ Fred Blanc ‧ Founder of HappyToDev
+- **[@filamentbr](https://www.youtube.com/@filamentbr)**: 642 ‧ Leandro Ferreira ‧ Content Creator at Filament Brasil
 - **[@rmsramos](https://www.youtube.com/@rmsramos)**: 622 ‧ Rômulo Ramos ‧ Content Creator
 - **[@livewirephp](https://www.youtube.com/@livewirephp)**: 592 ‧ Caleb Porzio ‧ Founder of Livewire
 - **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: 447 ‧ Loris Leiva ‧ Developer at Solana Labs
