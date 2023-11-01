@@ -64,6 +64,7 @@
 - **[@happytodev](https://www.youtube.com/@happytodev)**: 692 ‧ Fred Blanc ‧ Founder of HappyToDev
 - **[@rmsramos](https://www.youtube.com/@rmsramos)**: 617 ‧ Rômulo Ramos ‧ Content Creator
 - **[@livewirephp](https://www.youtube.com/@livewirephp)**: 587 ‧ Caleb Porzio ‧ Founder of Livewire
+- **[@phpugly](https://www.youtube.com/@PHPUgly)**: 587 ‧ PHPUgly
 - **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: 445 ‧ Loris Leiva ‧ Developer at Solana Labs
 - **[@96downlu](https://www.youtube.com/@96downlu)**: 401 ‧ Luke Downing ‧ Developer at Pest PHP core team
 - **[@amitmerchant](https://www.youtube.com/@amitmerchant)**: 391 ‧ Amit Merchant ‧ Developer at ValueLabs
