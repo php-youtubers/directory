@@ -73,8 +73,8 @@
 - **[@amitmerchant](https://www.youtube.com/@amitmerchant)**: 397 ‧ Amit Merchant ‧ Developer at ValueLabs
 - **[@dcblogdev](https://www.youtube.com/@dcblogdev)**: 342 ‧ Developer at dcblog.dev
 - **[@laravelschool](https://www.youtube.com/@laravelschool)**: 334 ‧ Thouhedul Islam ‧ Independent Developer
+- **[@jacked-php](https://www.youtube.com/@jacked-php)**: 246 ‧ Savio Resende ‧ Independent Developer
 - **[@milwad](https://www.youtube.com/@milwad)**: 173 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 163 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 76 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@simonhamp](https://www.youtube.com/@simonhamp)**: 60 ‧ Simon Hamp ‧ Developer at Tighten
-- **[@andrewcairns](https://www.youtube.com/@andrewcairns)**: 9 ‧ Andrew Cairns ‧ Independent Developer
