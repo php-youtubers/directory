@@ -51,6 +51,7 @@
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: 3.2K ‧ Tio Jobs ‧ Founder of JOBS TREINAMENTOS
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: 2.9K ‧ Christoph Rumpel ‧ Author of Laravel Core Adventures
 - **[@filamentdaily](https://www.youtube.com/@filamentdaily)**: 2.8K ‧ Povilas Korop ‧ Founder of Laravel Daily
+- **[@andrew.cairns](https://www.youtube.com/@andrew.cairns)**: 2.7K ‧ Andrew Cairns ‧ Independent Developer
 - **[@pascalbaljet](https://www.youtube.com/@pascalbaljet)**: 2.4K ‧ Pascal Baljet ‧ Creator of Laravel Splade
 - **[@differdev](https://www.youtube.com/@differdev)**: 2.4K ‧ Leonardo Tumadjian ‧ Content Creator at DifferDev
 - **[@thejasonmccreary](https://www.youtube.com/@thejasonmccreary)**: 2.2K ‧ Jason McCreary ‧ Founder of Laravel Shift
@@ -69,16 +70,16 @@
 - **[@phpugly](https://www.youtube.com/@phpugly)**: 710 ‧ PHPUgly
 - **[@happytodev](https://www.youtube.com/@happytodev)**: 695 ‧ Fred Blanc ‧ Founder of HappyToDev
 - **[@filamentbr](https://www.youtube.com/@filamentbr)**: 642 ‧ Leandro Ferreira ‧ Content Creator at Filament Brasil
-- **[@rmsramos](https://www.youtube.com/@rmsramos)**: 622 ‧ Rômulo Ramos ‧ Content Creator
+- **[@rmsramos](https://www.youtube.com/@rmsramos)**: 623 ‧ Rômulo Ramos ‧ Content Creator
 - **[@livewirephp](https://www.youtube.com/@livewirephp)**: 592 ‧ Caleb Porzio ‧ Founder of Livewire
 - **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: 447 ‧ Loris Leiva ‧ Developer at Solana Labs
 - **[@96downlu](https://www.youtube.com/@96downlu)**: 402 ‧ Luke Downing ‧ Developer at Pest PHP core team
 - **[@amitmerchant](https://www.youtube.com/@amitmerchant)**: 397 ‧ Amit Merchant ‧ Developer at ValueLabs
 - **[@dcblogdev](https://www.youtube.com/@dcblogdev)**: 342 ‧ Developer at dcblog.dev
-- **[@laravelschool](https://www.youtube.com/@laravelschool)**: 334 ‧ Thouhedul Islam ‧ Independent Developer
+- **[@laravelschool](https://www.youtube.com/@laravelschool)**: 338 ‧ Thouhedul Islam ‧ Independent Developer
 - **[@jacked-php](https://www.youtube.com/@jacked-php)**: 246 ‧ Savio Resende ‧ Independent Developer
-- **[@milwad](https://www.youtube.com/@milwad)**: 173 ‧ Milwad ‧ Founder of Binafy
+- **[@phpislife](https://www.youtube.com/@phpislife)**: 177 ‧ José Marcos ‧ Content Creator
+- **[@milwad](https://www.youtube.com/@milwad)**: 174 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 163 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 76 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@simonhamp](https://www.youtube.com/@simonhamp)**: 60 ‧ Simon Hamp ‧ Developer at Tighten
-- **[@phpislife](https://www.youtube.com/@phpislife)**: 176 ‧ José Marcos ‧ Content Creator
