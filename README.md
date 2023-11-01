@@ -5,6 +5,7 @@
 - **[@bitfumes](https://www.youtube.com/@bitfumes)**: 126K ‧ Sarthak Shrivastava ‧ Founder of Bitfumes
 - **[@thecodeholic](https://www.youtube.com/@thecodeholic)**: 66.7K ‧ Zura Sekhniashvili ‧ Founder of The Codeholic
 - **[@codewithdary](https://www.youtube.com/@codewithdary)**: 53.9K ‧ Dary Nazar ‧ Founder of Code with Dary
+- **[@drehimself](https://www.youtube.com/@drehimself)**: 52.9K ‧ Andre Madarang ‧ Independent Developer
 - **[@celkebr](https://www.youtube.com/@celkebr)**: 51.4K ‧ Cesar Nicolau ‧ Founder of Celke
 - **[@laracastsofficial](https://www.youtube.com/@laracastsofficial)**: 46.3K ‧ Laracasts
 - **[@jldrpt](https://www.youtube.com/@jldrpt)**: 44.6K ‧ João Ribeiro ‧ Independent Developer
@@ -34,6 +35,7 @@
 - **[@mattstauffer](https://www.youtube.com/@mattstauffer)**: 7.7K ‧ Matt Stauffer ‧ Founder of Tighten
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: 7.2K ‧ Ismael Catalá Gil ‧ Founder of El Rincón de Isma
 - **[@freekmurze](https://www.youtube.com/@freekmurze)**: 6.9K ‧ Freek Van der Herten ‧ Partner at Spatie
+- **[@yelocode](https://www.youtube.com/@yelocode)**: 6.6K ‧ Martin Yelo ‧ Independent Developer
 - **[@ThibaudDauce](https://www.youtube.com/@ThibaudDauce)**: 5.8K ‧ Thibaud Dauce ‧ Independent Developer
 - **[@mateusguimaraes](https://www.youtube.com/@mateusguimaraes)**: 5.6K ‧ Mateus Guimarães ‧ Developer at ENTRE Institute
 - **[@juststeveking](https://www.youtube.com/@juststeveking)**: 5.3K ‧ Steve King ‧ Developer Relations at Treblle
@@ -47,7 +49,6 @@
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: 3.2K ‧ Tio Jobs ‧ Founder of JOBS TREINAMENTOS
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: 2.9K ‧ Christoph Rumpel ‧ Author of Laravel Core Adventures
 - **[@filamentdaily](https://www.youtube.com/@filamentdaily)**: 2.8K ‧ Povilas Korop ‧ Founder of Laravel Daily
-- **[@andrewcairns](https://www.youtube.com/@andrewcairns)**: 2.7K ‧ Andrew Cairns ‧ Independent Developer
 - **[@pascalbaljet](https://www.youtube.com/@pascalbaljet)**: 2.4K ‧ Pascal Baljet ‧ Creator of Laravel Splade
 - **[@differdev](https://www.youtube.com/@differdev)**: 2.4K ‧ Leonardo Tumadjian ‧ Content Creator at DifferDev
 - **[@thejasonmccreary](https://www.youtube.com/@thejasonmccreary)**: 2.2K ‧ Jason McCreary ‧ Founder of Laravel Shift
@@ -76,3 +77,4 @@
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 163 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 76 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@simonhamp](https://www.youtube.com/@simonhamp)**: 60 ‧ Simon Hamp ‧ Developer at Tighten
+- **[@andrewcairns](https://www.youtube.com/@andrewcairns)**: 9 ‧ Andrew Cairns ‧ Independent Developer
