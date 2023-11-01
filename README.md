@@ -70,7 +70,7 @@
 - **[@phpugly](https://www.youtube.com/@phpugly)**: 710 ‧ PHPUgly
 - **[@happytodev](https://www.youtube.com/@happytodev)**: 695 ‧ Fred Blanc ‧ Founder of HappyToDev
 - **[@filamentbr](https://www.youtube.com/@filamentbr)**: 642 ‧ Leandro Ferreira ‧ Content Creator at Filament Brasil
-- **[@rmsramos](https://www.youtube.com/@rmsramos)**: 622 ‧ Rômulo Ramos ‧ Content Creator
+- **[@rmsramos](https://www.youtube.com/@rmsramos)**: 623 ‧ Rômulo Ramos ‧ Content Creator
 - **[@livewirephp](https://www.youtube.com/@livewirephp)**: 592 ‧ Caleb Porzio ‧ Founder of Livewire
 - **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: 447 ‧ Loris Leiva ‧ Developer at Solana Labs
 - **[@96downlu](https://www.youtube.com/@96downlu)**: 402 ‧ Luke Downing ‧ Developer at Pest PHP core team
@@ -78,6 +78,7 @@
 - **[@dcblogdev](https://www.youtube.com/@dcblogdev)**: 342 ‧ Developer at dcblog.dev
 - **[@laravelschool](https://www.youtube.com/@laravelschool)**: 338 ‧ Thouhedul Islam ‧ Independent Developer
 - **[@jacked-php](https://www.youtube.com/@jacked-php)**: 246 ‧ Savio Resende ‧ Independent Developer
+- **[@phpislife](https://www.youtube.com/@phpislife)**: 177 ‧ José Marcos ‧ Content Creator
 - **[@milwad](https://www.youtube.com/@milwad)**: 174 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 163 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 76 ‧ Marian Pop ‧ Founder of Laravel Magazine
