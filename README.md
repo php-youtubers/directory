@@ -60,13 +60,13 @@
 - **[@codewithburt](https://www.youtube.com/@codewithburt)**: 1.8K ‧ Bert De Swaef ‧ Developer at Vulpo
 - **[@philodev](https://www.youtube.com/@philodev)**: 1.5K ‧ Philo Hermans ‧ Founder of Anystack
 - **[@olliecodes](https://www.youtube.com/@olliecodes)**: 1.4K ‧ Ollie Read ‧ Independent Developer
+- **[@icodestuff](https://www.youtube.com/@icodestuff)**: 1.4K ‧ Icodestuff ‧ Content Creator
 - **[@dasundev](https://www.youtube.com/@dasundev)**: 1.3K ‧ Dasun Tharanga ‧ Founder of Dasun Dev
 - **[@laravelonline](https://www.youtube.com/@laravelonline)**: 1.3K ‧ Shane Rosenthal ‧ Founder of LaravelOnline
 - **[@daltoncast](https://www.youtube.com/@daltoncast)**: 1.3K ‧ Jordan Dalton ‧ Developer at Financial
 - **[@laraphant](https://www.youtube.com/@laraphant)**: 1.2K ‧ William Juma Misiko ‧ Founder of Laraphant
 - **[@jackmcdade](https://www.youtube.com/@jackmcdade)**: 1.1K ‧ Jack McDade ‧ Co-Founder of Statamic
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: 939 ‧ Álvaro Jorge ‧ Founder of EuSeiPhp
-- **[@agoalofalife](https://www.youtube.com/@agoalofalife)**: 890 ‧ Ilia Chubarov ‧ Independent Developer
 - **[@fideloper](https://www.youtube.com/@fideloper)**: 739 ‧ Chris Fidao ‧ Developer at Fly.io
 - **[@phpugly](https://www.youtube.com/@phpugly)**: 710 ‧ PHPUgly
 - **[@happytodev](https://www.youtube.com/@happytodev)**: 695 ‧ Fred Blanc ‧ Founder of HappyToDev
