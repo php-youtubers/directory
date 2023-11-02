@@ -67,6 +67,7 @@
 - **[@laraphant](https://www.youtube.com/@laraphant)**: 1.2K ‧ William Juma Misiko ‧ Founder of Laraphant
 - **[@jackmcdade](https://www.youtube.com/@jackmcdade)**: 1.1K ‧ Jack McDade ‧ Co-Founder of Statamic
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: 939 ‧ Álvaro Jorge ‧ Founder of EuSeiPhp
+- **[@agoalofalife](https://www.youtube.com/@agoalofalife)**: 890 ‧ Ilia Chubarov ‧ Independent Developer
 - **[@fideloper](https://www.youtube.com/@fideloper)**: 739 ‧ Chris Fidao ‧ Developer at Fly.io
 - **[@phpugly](https://www.youtube.com/@phpugly)**: 710 ‧ PHPUgly
 - **[@happytodev](https://www.youtube.com/@happytodev)**: 695 ‧ Fred Blanc ‧ Founder of HappyToDev
