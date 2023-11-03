@@ -33,6 +33,7 @@
 - **[@davidconnelly](https://www.youtube.com/@davidconnelly)**: 11K ‧ David Connelly ‧ Founder of Trongate
 - **[@codeexperts](https://www.youtube.com/@codeexperts)**: 8.7K ‧ Content Creator
 - **[@themsaid](https://www.youtube.com/@themsaid)**: 8K ‧ Mohamed Said ‧ Independent Developer
+- **[@zaprogramujzycie](https://www.youtube.com/@zaprogramujzycie)**: 8K ‧ Content Creator
 - **[@mattstauffer](https://www.youtube.com/@mattstauffer)**: 7.7K ‧ Matt Stauffer ‧ Founder of Tighten
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: 7.2K ‧ Ismael Catalá Gil ‧ Founder of El Rincón de Isma
 - **[@freekmurze](https://www.youtube.com/@freekmurze)**: 6.9K ‧ Freek Van der Herten ‧ Partner at Spatie
