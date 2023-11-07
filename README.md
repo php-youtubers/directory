@@ -86,3 +86,20 @@
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 163 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 76 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@simonhamp](https://www.youtube.com/@simonhamp)**: 60 ‧ Simon Hamp ‧ Developer at Tighten
+- **[Benjamin Code](https://www.youtube.com/c/BenjaminCode)**: 124k - Benjamin Code - Developer FullStack (FR)
+- **[BALO](https://www.youtube.com/@BALOPRISONNIER)**: 304k - Balo - Web designer (FR)
+- **[Justin Buisson](https://www.youtube.com/@JUSTINBUISSON)**: 91.3k - Motion/Web designer (FR)
+- **[JavaScript de Zéro](https://www.youtube.com/@javascriptdezero)**: 9k - Learning javascript in (FR)
+- **[Hardcoders](https://www.youtube.com/@Hardcoders)**: 42.2k - Developer Full Stack (FR)
+- **[Graven](https://www.youtube.com/@Gravenilvectuto)**: 312k - Devloper Software and more (FR)
+- **[Asynconf](https://www.youtube.com/@Asynconf)**: 5.84k - Event on programming IT and numeric (FR)
+- **[Made by Amaury](https://www.youtube.com/@madebyamaury)**: 53.5K - Create object and basic of programing (FR)
+- **[Defend Intelligence](https://www.youtube.com/@DefendIntelligence)**: 138k - Developer IA  (FR)
+- **[Ben BK](https://www.youtube.com/@BenBK)**: 17.1k - Developer WEB3 / Blockchain / JS (FR)
+- **[Cookie connecté](https://www.youtube.com/@Cookieconnecte)**: 163k - Explain IT (FR)
+- **[TNtube](https://www.youtube.com/@TNtubeDev)**: 3.01k- Tutorials on Python and more (FR)
+- **[Read The Docs](https://www.youtube.com/@ReadTheDocsFR)**: 193 - Live code and game jam (FR)
+- **[Le frère codeur](https://www.youtube.com/@LeFrereCodeur)**: 51.5k - Programming general (FR)
+- **[Machine Learnia](https://www.youtube.com/@MachineLearnia)**: 136k - Guillaume Saint-Cirgue developer Machine Learning in UK (FR)
+- **[Boris ('PrimFX')](https://www.youtube.com/@primfxdesign)**: 75.2k - Developer on JS, PHP and more (FR)
+- **[Louistiti](https://www.youtube.com/@LouistitiFr)**: 13.2k - Learning nodeJS and more tips IT (FR)
