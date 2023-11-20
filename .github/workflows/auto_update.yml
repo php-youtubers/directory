@@ -3,6 +3,7 @@ name: Auto Update
 on:
   schedule:
     - cron: '0 1 * * 1'  # Runs at 01:00 AM every Monday
+  workflow_dispatch:
 
 jobs:
   build:
