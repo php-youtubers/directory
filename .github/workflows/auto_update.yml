@@ -1,0 +1,42 @@
+name: Auto Update
+
+on:
+  schedule:
+    - cron: '0 1 * * 1'  # Runs at 01:00 AM every Monday
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Branch
+      run: git checkout -b update-stats
+
+    - name: Update stats
+      env:
+        API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      run: php update.php
+
+    - name: Set up Git
+      run: |
+        git config --global user.name 'PHP Youtubers GH Action'
+        git config --global user.email 'ghaction@example.com'
+
+    - name: Commit changes
+      run: |
+        git add .
+        git commit -m "Update stats" || echo "No changes to commit"
+        git push origin update-stats
+
+    - name: Create PR
+      uses: repo-sync/pull-request@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        pr_title: "[AUTO] Update stats"
+        pr_body: "_Automatically generated PR_"
+        destination_branch: "main"
+        source_branch: "update-stats"
