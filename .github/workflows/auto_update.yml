@@ -12,6 +12,9 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Branch
+      run: git checkout -b update-stats
+
     - name: Update stats
       env:
         API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
@@ -26,4 +29,13 @@ jobs:
       run: |
         git add .
         git commit -m "Update stats" || echo "No changes to commit"
-        git push
+        git push origin update-stats
+
+    - name: Create PR
+      uses: repo-sync/pull-request@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        pr_title: "[AUTO] Update stats"
+        pr_body: "_Automatically generated PR_"
+        destination_branch: "main"
+        source_branch: "update-stats"
