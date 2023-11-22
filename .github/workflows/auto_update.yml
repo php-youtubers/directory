@@ -10,22 +10,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Branch
-      run: git checkout -b update-stats
-
-    - name: Update stats
-      env:
-        API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-      run: php update.php
-
-    - name: Commit changes
-      run: |
-        git add .
-        git commit -m "Update stats" || echo "No changes to commit"
-        git push origin update-stats
-
-    - name: Create PR
-      run: gh pr create --base main --head update-stats --title "[AUTO] Update stats" --body "_This PR includes automated changes._"
+      - name: Checkout repository
+        uses: actions/checkout@v2
+  
+      - name: Setup Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+  
+      - name: Set Branch Name
+        id: branch_name
+        run: echo "BRANCH_NAME=changes-$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
+  
+      - name: Checkout Branch
+        run: git checkout -b ${{ env.BRANCH_NAME }}
+  
+      - name: Update stats
+        env:
+          API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: php update.php
+  
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Update stats" || echo "No changes to commit"
+          git push origin ${{ env.BRANCH_NAME }}
+  
+      - name: Create PR
+        run: gh pr create --base main --head ${{ env.BRANCH_NAME }} --title "[AUTO] Update stats" --body "_This PR includes automated changes._"
+        env:
+          GH_TOKEN: ${{ github.token }}
