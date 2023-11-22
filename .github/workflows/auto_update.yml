@@ -20,7 +20,7 @@ jobs:
   
       - name: Set Branch Name
         id: branch_name
-        run: echo "BRANCH_NAME=changes-$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
+        run: echo "BRANCH_NAME=stats_$(date +'%Y-%m-%d')" >> $GITHUB_ENV
   
       - name: Checkout Branch
         run: git checkout -b ${{ env.BRANCH_NAME }}
@@ -37,6 +37,6 @@ jobs:
           git push origin ${{ env.BRANCH_NAME }}
   
       - name: Create PR
-        run: gh pr create --base main --head ${{ env.BRANCH_NAME }} --title "[AUTO] Update stats" --body "_This PR includes automated changes._"
         env:
           GH_TOKEN: ${{ github.token }}
+        run: gh pr create --base main --head ${{ env.BRANCH_NAME }} --title "[AUTO] Update stats" --body "_This PR includes automated changes._"
