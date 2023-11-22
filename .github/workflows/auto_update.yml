@@ -19,7 +19,6 @@ jobs:
           git config --local user.name "GitHub Action"
   
       - name: Set Branch Name
-        id: branch_name
         run: echo "BRANCH_NAME=stats_$(date +'%Y-%m-%d')" >> $GITHUB_ENV
   
       - name: Checkout Branch
