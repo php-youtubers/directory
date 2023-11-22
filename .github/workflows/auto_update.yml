@@ -21,11 +21,6 @@ jobs:
         API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       run: php update.php
 
-    - name: Set up Git
-      run: |
-        git config --global user.name 'PHP Youtubers GH Action'
-        git config --global user.email 'ghaction@example.com'
-
     - name: Commit changes
       run: |
         git add .
@@ -33,10 +28,4 @@ jobs:
         git push origin update-stats
 
     - name: Create PR
-      uses: repo-sync/pull-request@v2
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        pr_title: "[AUTO] Update stats"
-        pr_body: "_Automatically generated PR_"
-        destination_branch: "main"
-        source_branch: "update-stats"
+      run: gh pr create --base main --head update-stats --title "[AUTO] Update stats" --body "_This PR includes automated changes._"
