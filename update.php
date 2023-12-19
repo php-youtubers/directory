@@ -1,6 +1,6 @@
 <?php
 
-$apiKey = getenv('API_KEY') ?? '';
+$apiKey = getenv('YOUTUBE_API_KEY') ?? '';
 
 $content = file_get_contents('README.md');
 $lines = explode("\n", $content);
