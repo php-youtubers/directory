@@ -38,5 +38,5 @@ jobs:
   
       - name: Create PR
         env:
-          GH_TOKEN: ${{ env.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: gh pr create --base main --head ${{ env.BRANCH_NAME }} --title "[AUTO] Update stats" --body "_This PR includes automated changes._"
