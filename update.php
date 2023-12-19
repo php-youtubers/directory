@@ -1,6 +1,6 @@
 <?php
 
-$apiKey = '';
+$apiKey = getenv('API_KEY') ?? '';
 
 $content = file_get_contents('README.md');
 $lines = explode("\n", $content);

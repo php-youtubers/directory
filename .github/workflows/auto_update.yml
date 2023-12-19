@@ -1,0 +1,42 @@
+name: Auto Update
+
+on:
+  schedule:
+    - cron: '0 1 * * 1'  # Runs at 01:00 AM every Monday
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+  
+      - name: Setup Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+  
+      - name: Set Branch Name
+        run: echo "BRANCH_NAME=stats_$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+  
+      - name: Checkout Branch
+        run: git checkout -b ${{ env.BRANCH_NAME }}
+  
+      - name: Update stats
+        env:
+          API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: php update.php
+  
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Update stats" || echo "No changes to commit"
+          git push origin ${{ env.BRANCH_NAME }}
+
+  
+      - name: Create PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh pr create --base main --head ${{ env.BRANCH_NAME }} --title "[AUTO] Update stats" --body "_This PR includes automated changes._"
