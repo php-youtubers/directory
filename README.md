@@ -78,6 +78,7 @@
 - **[@codewithsaleh](https://www.youtube.com/@codewithsaleh)**: 463 ‧ Saleh Hashemi ‧ Laravel Developer
 - **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: 447 ‧ Loris Leiva ‧ Developer at Solana Labs
 - **[@96downlu](https://www.youtube.com/@96downlu)**: 402 ‧ Luke Downing ‧ Developer at Pest PHP core team
+- **[@codekif](https://www.youtube.com/@codekif)**: 399 ‧ Pavlove Biokou ‧ Independent Developer
 - **[@amitmerchant](https://www.youtube.com/@amitmerchant)**: 397 ‧ Amit Merchant ‧ Developer at ValueLabs
 - **[@dcblogdev](https://www.youtube.com/@dcblogdev)**: 342 ‧ Developer at dcblog.dev
 - **[@laravelschool](https://www.youtube.com/@laravelschool)**: 338 ‧ Thouhedul Islam ‧ Independent Developer
