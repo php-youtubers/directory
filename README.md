@@ -88,3 +88,5 @@
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 163 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 76 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@simonhamp](https://www.youtube.com/@simonhamp)**: 60 ‧ Simon Hamp ‧ Developer at Tighten
+- **[@TuralAsgar](https://www.youtube.com/@TuralAsgar)**: 45 ‧ Tural Asgar ‧ Remotely working Software Engineer (English channel)
+- **[@TuralAsgar](https://www.youtube.com/@TuralAsgarAZ)**: 92 ‧ Tural Asgar ‧ Remotely working Software Engineer (Azerbaijani channel)
