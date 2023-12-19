@@ -7,7 +7,7 @@
 - **[@thecodeholic](https://www.youtube.com/@thecodeholic)**: 66.7K ‧ Zura Sekhniashvili ‧ Founder of The Codeholic
 - **[@codewithdary](https://www.youtube.com/@codewithdary)**: 53.9K ‧ Dary Nazar ‧ Founder of Code with Dary
 - **[@drehimself](https://www.youtube.com/@drehimself)**: 52.9K ‧ Andre Madarang ‧ Independent Developer
-- **[@celkebr](https://www.youtube.com/@celkebr)**: 51.4K ‧ Cesar Nicolau ‧ Founder of Celke
+- **[@celkecursos](https://www.youtube.com/@celkecursos)**: 51.4K ‧ Cesar Nicolau ‧ Founder of Celke
 - **[@laracastsofficial](https://www.youtube.com/@laracastsofficial)**: 46.3K ‧ Laracasts
 - **[@jldrpt](https://www.youtube.com/@jldrpt)**: 44.6K ‧ João Ribeiro ‧ Independent Developer
 - **[@programwithgio](https://www.youtube.com/@programwithgio)**: 42.8K ‧ Giorgi G ‧ Founder of Program With Gio
