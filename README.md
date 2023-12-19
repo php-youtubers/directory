@@ -1,6 +1,7 @@
 - **[@dani_krossing](https://www.youtube.com/@dani_krossing)**: 449K ‧ Dani Krossing ‧ Independent Developer
 - **[@codecourse](https://www.youtube.com/@codecourse)**: 342K ‧ Alex Garrett-Smith ‧ Founder of Codecourse
 - **[@grafikart](https://www.youtube.com/@grafikart)**: 282K ‧ Jonathan Boyer ‧ Independent Developer
+- **[@codelytv](https://www.youtube.com/@codelytv)**: 142K ‧ CodelyTV
 - **[@laraveldaily](https://www.youtube.com/@laraveldaily)**: 130K ‧ Povilas Korop ‧ Founder of Laravel Daily
 - **[@bitfumes](https://www.youtube.com/@bitfumes)**: 126K ‧ Sarthak Shrivastava ‧ Founder of Bitfumes
 - **[@teachersdunet](https://www.youtube.com/@teachersdunet)**: 112K ‧ Honoré Hounwanou ‧ Teacher at Teachers du Net
