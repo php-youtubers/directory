@@ -83,6 +83,7 @@
 - **[@dcblogdev](https://www.youtube.com/@dcblogdev)**: 342 ‧ Developer at dcblog.dev
 - **[@laravelschool](https://www.youtube.com/@laravelschool)**: 338 ‧ Thouhedul Islam ‧ Independent Developer
 - **[@jacked-php](https://www.youtube.com/@jacked-php)**: 246 ‧ Savio Resende ‧ Independent Developer
+- **[@LaravelTurkiye](https://www.youtube.com/@LaravelTurkiye)**: 220 ‧ Laravel Türkiye ‧ Turkish Laravel Community
 - **[@phpislife](https://www.youtube.com/@phpislife)**: 177 ‧ José Marcos ‧ Content Creator
 - **[@milwad](https://www.youtube.com/@milwad)**: 174 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 163 ‧ Lucas Antônio ‧ Founder of Webmentor
