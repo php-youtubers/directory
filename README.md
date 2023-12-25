@@ -25,6 +25,7 @@
 - **[@laratips](https://www.youtube.com/@laratips)**: 15.9K ‧ Ashish Dhamala ‧ Developer at SATs Companion
 - **[@yoandevco](https://www.youtube.com/@yoandevco)**: 15.5K ‧ Yoan Bernabeu ‧ Founder of YoanDev
 - **[@beerandcode](https://www.youtube.com/@beerandcode)**: 15.2K ‧ Lucas Souza ‧ Co-Founder of Beer And Code
+- **[@Maniruzzaman](https://www.youtube.com/@Maniruzzaman)**: 13.8K ‧ Maniruzzaman Akash ‧ Founder of DevsEnv
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: 12.9K ‧ Brent Roose ‧ Developer at JetBrains
 - **[@garyclarketech](https://www.youtube.com/@garyclarketech)**: 12.8K ‧ Gary Clarke ‧ Founder of Gary Clarke Tech
 - **[@aarondfrancis](https://www.youtube.com/@aarondfrancis)**: 12.1K ‧ Aaron Francis ‧ Developer at PlanetScale
