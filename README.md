@@ -25,6 +25,7 @@
 - **[@laratips](https://www.youtube.com/@laratips)**: 15.9K ‧ Ashish Dhamala ‧ Developer at SATs Companion
 - **[@yoandevco](https://www.youtube.com/@yoandevco)**: 15.5K ‧ Yoan Bernabeu ‧ Founder of YoanDev
 - **[@beerandcode](https://www.youtube.com/@beerandcode)**: 15.2K ‧ Lucas Souza ‧ Co-Founder of Beer And Code
+- **[@Maniruzzaman](https://www.youtube.com/@Maniruzzaman)**: 13.8K ‧ Maniruzzaman Akash ‧ Founder of DevsEnv
 - **[@phpannotated](https://www.youtube.com/@phpannotated)**: 12.9K ‧ Brent Roose ‧ Developer at JetBrains
 - **[@garyclarketech](https://www.youtube.com/@garyclarketech)**: 12.8K ‧ Gary Clarke ‧ Founder of Gary Clarke Tech
 - **[@aarondfrancis](https://www.youtube.com/@aarondfrancis)**: 12.1K ‧ Aaron Francis ‧ Developer at PlanetScale
@@ -60,6 +61,7 @@
 - **[@85bitsdeveloper](https://www.youtube.com/@85bitsdeveloper)**: 2K ‧ Content Creator
 - **[@codewithburt](https://www.youtube.com/@codewithburt)**: 1.8K ‧ Bert De Swaef ‧ Developer at Vulpo
 - **[@philodev](https://www.youtube.com/@philodev)**: 1.5K ‧ Philo Hermans ‧ Founder of Anystack
+- **[@derickrethansxdebug](https://www.youtube.com/@DerickRethansXdebug)**: 1.5K ‧ Derick Rethans ‧ Xdebug author and PHP contributor
 - **[@olliecodes](https://www.youtube.com/@olliecodes)**: 1.4K ‧ Ollie Read ‧ Independent Developer
 - **[@icodestuff](https://www.youtube.com/@icodestuff)**: 1.4K ‧ Icodestuff ‧ Content Creator
 - **[@dasundev](https://www.youtube.com/@dasundev)**: 1.3K ‧ Dasun Tharanga ‧ Founder of Dasun Dev
@@ -83,6 +85,8 @@
 - **[@dcblogdev](https://www.youtube.com/@dcblogdev)**: 342 ‧ Developer at dcblog.dev
 - **[@laravelschool](https://www.youtube.com/@laravelschool)**: 338 ‧ Thouhedul Islam ‧ Independent Developer
 - **[@jacked-php](https://www.youtube.com/@jacked-php)**: 246 ‧ Savio Resende ‧ Independent Developer
+- **[@akbolota](https://www.youtube.com/@akbolota)**: 225 ‧ Bolota ‧ Developer at Falcon Tecnology
+- **[@laravelturkiye](https://www.youtube.com/@LaravelTurkiye)**: 220 ‧ Laravel Türkiye ‧ Turkish Laravel Community
 - **[@phpislife](https://www.youtube.com/@phpislife)**: 177 ‧ José Marcos ‧ Content Creator
 - **[@milwad](https://www.youtube.com/@milwad)**: 174 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 163 ‧ Lucas Antônio ‧ Founder of Webmentor
