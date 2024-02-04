@@ -81,6 +81,7 @@
 - **[@rmsramos](https://www.youtube.com/@rmsramos)**: 623 ‧ Rômulo Ramos ‧ Content Creator
 - **[@livewirephp](https://www.youtube.com/@livewirephp)**: 592 ‧ Caleb Porzio ‧ Founder of Livewire
 - **[@codewithsaleh](https://www.youtube.com/@codewithsaleh)**: 463 ‧ Saleh Hashemi ‧ Laravel Developer
+- **[@TechChess](https://www.youtube.com/@TechChess)**: 461 ‧ Steve Nyanumba ‧ Kenyan Laravel Developer
 - **[@lorisleiva](https://www.youtube.com/@lorisleiva)**: 447 ‧ Loris Leiva ‧ Developer at Solana Labs
 - **[@96downlu](https://www.youtube.com/@96downlu)**: 402 ‧ Luke Downing ‧ Developer at Pest PHP core team
 - **[@codekif](https://www.youtube.com/@codekif)**: 399 ‧ Pavlove Biokou ‧ Independent Developer
