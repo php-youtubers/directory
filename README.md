@@ -56,7 +56,7 @@
 - **[@serversideupnet](https://www.youtube.com/@serversideupnet)**: 3.0K ‧ Server Side Up
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: 2.9K ‧ Christoph Rumpel ‧ Author of Laravel Core Adventures
 - **[@filamentdaily](https://www.youtube.com/@filamentdaily)**: 2.8K ‧ Povilas Korop ‧ Founder of Laravel Daily
-- **[@andrew.cairns](https://www.youtube.com/@andrew.cairns)**: 2.7K ‧ Andrew Cairns ‧ Independent Developer
+- **[@metaphoricallyspeaking](https://www.youtube.com/@metaphoricallyspeaking)**: 2.7K ‧ Andrew Cairns ‧ Independent Developer
 - **[@pascalbaljet](https://www.youtube.com/@pascalbaljet)**: 2.4K ‧ Pascal Baljet ‧ Creator of Laravel Splade
 - **[@differdev](https://www.youtube.com/@differdev)**: 2.4K ‧ Leonardo Tumadjian ‧ Content Creator at DifferDev
 - **[@thejasonmccreary](https://www.youtube.com/@thejasonmccreary)**: 2.2K ‧ Jason McCreary ‧ Founder of Laravel Shift
