@@ -95,3 +95,4 @@
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 76 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@simonhamp](https://www.youtube.com/@simonhamp)**: 60 ‧ Simon Hamp ‧ Developer at Tighten
 - **[@lessonsim](https://www.youtube.com/@lessonsim)**: 60 ‧ Mohammed Fahad ‧ Developer, Content Creator
+- **[@nexxai_dev](https://www.youtube.com/@nexxai_dev)**: 30 ‧ JT Smith ‧ Laravel Developer
