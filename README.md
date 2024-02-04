@@ -61,7 +61,7 @@
 - **[@85bitsdeveloper](https://www.youtube.com/@85bitsdeveloper)**: 2K ‧ Content Creator
 - **[@codewithburt](https://www.youtube.com/@codewithburt)**: 1.8K ‧ Bert De Swaef ‧ Developer at Vulpo
 - **[@philodev](https://www.youtube.com/@philodev)**: 1.5K ‧ Philo Hermans ‧ Founder of Anystack
-- **[@derickr](https://www.youtube.com/@DerickRethansXdebug/)**: 1.5K ‧ Derick Rethans ‧ Xdebug author and PHP contributor
+- **[@derickrethansxdebug](https://www.youtube.com/@DerickRethansXdebug)**: 1.5K ‧ Derick Rethans ‧ Xdebug author and PHP contributor
 - **[@olliecodes](https://www.youtube.com/@olliecodes)**: 1.4K ‧ Ollie Read ‧ Independent Developer
 - **[@icodestuff](https://www.youtube.com/@icodestuff)**: 1.4K ‧ Icodestuff ‧ Content Creator
 - **[@dasundev](https://www.youtube.com/@dasundev)**: 1.3K ‧ Dasun Tharanga ‧ Founder of Dasun Dev
@@ -85,10 +85,11 @@
 - **[@dcblogdev](https://www.youtube.com/@dcblogdev)**: 342 ‧ Developer at dcblog.dev
 - **[@laravelschool](https://www.youtube.com/@laravelschool)**: 338 ‧ Thouhedul Islam ‧ Independent Developer
 - **[@jacked-php](https://www.youtube.com/@jacked-php)**: 246 ‧ Savio Resende ‧ Independent Developer
-- **[@LaravelTurkiye](https://www.youtube.com/@LaravelTurkiye)**: 220 ‧ Laravel Türkiye ‧ Turkish Laravel Community
+- **[@akbolota](https://www.youtube.com/@akbolota)**: 225 ‧ Bolota ‧ Developer at Falcon Tecnology
+- **[@laravelturkiye](https://www.youtube.com/@LaravelTurkiye)**: 220 ‧ Laravel Türkiye ‧ Turkish Laravel Community
 - **[@phpislife](https://www.youtube.com/@phpislife)**: 177 ‧ José Marcos ‧ Content Creator
 - **[@milwad](https://www.youtube.com/@milwad)**: 174 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 163 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 76 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@simonhamp](https://www.youtube.com/@simonhamp)**: 60 ‧ Simon Hamp ‧ Developer at Tighten
-- **[@akbolota](https://www.youtube.com/@akbolota)**: 225 ‧ Bolota ‧ Developer at Falcon Tecnology
+- **[@lessonsim](https://www.youtube.com/@lessonsim)**: 60 ‧ Mohammed Fahad ‧ Developer, Content Creator
