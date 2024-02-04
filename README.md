@@ -46,6 +46,7 @@
 - **[@pinguimdolaravel](https://www.youtube.com/@pinguimdolaravel)**: 5.3K ‧ Rafael Lunardelli ‧ Founder of Pinguim Academy
 - **[@toham](https://www.youtube.com/@toham)**: 4.6K ‧ Thomas Boileau ‧ Independent Developer
 - **[@nunomaduro](https://www.youtube.com/@nunomaduro)**: 4.5K ‧ Nuno Maduro ‧ Developer at Laravel
+- **[@carlosbuenosvinoszamora](https://www.youtube.com/@carlosbuenosvinoszamora)**: 4K ‧ Carlos Buenosvinos ‧ Author of Domain-Driven Design in PHP and CQRS by Example
 - **[@laravelnews](https://www.youtube.com/@laravelnews)**: 3.6K ‧ Eric Barnes ‧ Founder of Laravel News
 - **[@devtechtips](https://www.youtube.com/@devtechtips)**: 3.6K ‧ Julio Cesar Urnau de Almeida ‧ CTO at Academia do Ecommerce
 - **[@saaslaravel](https://www.youtube.com/@saaslaravel)**: 3.5K ‧ Przemysław Przyłucki ‧ Content Creator
