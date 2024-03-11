@@ -5,13 +5,17 @@ on:
     - cron: '0 1 * * 1'  # Runs at 01:00 AM every Monday
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
   
       - name: Setup Git
         run: |
