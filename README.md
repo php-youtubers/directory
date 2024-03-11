@@ -72,6 +72,7 @@
 - **[@daltoncast](https://www.youtube.com/@daltoncast)**: 1.3K ‧ Jordan Dalton ‧ Developer at Financial
 - **[@laraphant](https://www.youtube.com/@laraphant)**: 1.2K ‧ William Juma Misiko ‧ Founder of Laraphant
 - **[@jackmcdade](https://www.youtube.com/@jackmcdade)**: 1.1K ‧ Jack McDade ‧ Co-Founder of Statamic
+- **[@mchojrin](https://www.youtube.com/@LeewayAcademy)**: 988 ‧ Mauro Chojrin ‧ Technical Coach
 - **[@euseiphp](https://www.youtube.com/@euseiphp)**: 939 ‧ Álvaro Jorge ‧ Founder of EuSeiPhp
 - **[@agoalofalife](https://www.youtube.com/@agoalofalife)**: 890 ‧ Ilia Chubarov ‧ Independent Developer
 - **[@fideloper](https://www.youtube.com/@fideloper)**: 739 ‧ Chris Fidao ‧ Developer at Fly.io
