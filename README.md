@@ -100,3 +100,4 @@
 - **[@nhrrob](https://www.youtube.com/@nhrrob)**: 116 ‧ Nazmul Hasan Robin ‧ Developer at WPDeveloper
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 75 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@nexxai_dev](https://www.youtube.com/@nexxai_dev)**: 35 ‧ JT Smith ‧ Laravel Developer
+- **[@EspecializatiBr](https://www.youtube.com/@EspecializatiBr)**: 23.6K ‧ Carlos Ferreira ‧ Founder of EspecializaTi
