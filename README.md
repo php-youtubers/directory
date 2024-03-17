@@ -21,6 +21,7 @@
 - **[@laraconeu](https://www.youtube.com/@laraconeu)**: 31K ‧ Laracon EU
 - **[@aarondfrancis](https://www.youtube.com/@aarondfrancis)**: 30.1K ‧ Aaron Francis ‧ Developer at PlanetScale
 - **[@laraveljutsu](https://www.youtube.com/@laraveljutsu)**: 24.1K ‧ Ludovic Guénet ‧ Founder of Laravel Jutsu
+- **[@EspecializatiBr](https://www.youtube.com/@EspecializatiBr)**: 23.6K ‧ Carlos Ferreira ‧ Founder of EspecializaTi
 - **[@laravelnews](https://www.youtube.com/@laravelnews)**: 22.9K ‧ Eric Barnes ‧ Founder of Laravel News
 - **[@tiagomatosweb](https://www.youtube.com/@tiagomatosweb)**: 20.5K ‧ Tiago Matos ‧ Independent Developer
 - **[@alexandrecardoso](https://www.youtube.com/@alexandrecardoso)**: 18.8K ‧ Alexandre Cardoso ‧ Independent Developer
@@ -100,4 +101,3 @@
 - **[@nhrrob](https://www.youtube.com/@nhrrob)**: 116 ‧ Nazmul Hasan Robin ‧ Developer at WPDeveloper
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 75 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@nexxai_dev](https://www.youtube.com/@nexxai_dev)**: 35 ‧ JT Smith ‧ Laravel Developer
-- **[@EspecializatiBr](https://www.youtube.com/@EspecializatiBr)**: 23.6K ‧ Carlos Ferreira ‧ Founder of EspecializaTi
