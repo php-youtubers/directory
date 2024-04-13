@@ -57,6 +57,7 @@
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: 3.9K ‧ Tio Jobs ‧ Founder of JOBS TREINAMENTOS
 - **[@phparch](https://www.youtube.com/@phparch)**: 3.5K ‧ PHP Architect
 - **[@dersonsena-cabradev](https://www.youtube.com/@dersonsena-cabradev)**: 3.3K ‧ Kilderson Sena ‧ Developer at Yii Academy
+- **[@codewithsusan](https://www.youtube.com/@codewithsusan)**: 3.2K ‧ Susan Buck . Educator and Web Programmer
 - **[@serversideupnet](https://www.youtube.com/@serversideupnet)**: 3.2K ‧ Server Side Up
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: 3K ‧ Christoph Rumpel ‧ Author of Laravel Core Adventures
 - **[@metaphoricallyspeaking](https://www.youtube.com/@metaphoricallyspeaking)**: 2.9K ‧ Andrew Cairns ‧ Independent Developer
