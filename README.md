@@ -60,6 +60,7 @@
 - **[@serversideupnet](https://www.youtube.com/@serversideupnet)**: 3.2K ‧ Server Side Up
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: 3K ‧ Christoph Rumpel ‧ Author of Laravel Core Adventures
 - **[@metaphoricallyspeaking](https://www.youtube.com/@metaphoricallyspeaking)**: 2.9K ‧ Andrew Cairns ‧ Independent Developer
+- **[@tillythecoder](https://www.youtube.com/@TillyTheCoder)** 2.7k ‧ Laravel Developer & Content Creator
 - **[@laraphant](https://www.youtube.com/@laraphant)**: 2.7K ‧ William Juma Misiko ‧ Founder of Laraphant
 - **[@differdev](https://www.youtube.com/@differdev)**: 2.6K ‧ Leonardo Tumadjian ‧ Content Creator at DifferDev
 - **[@codewithburt](https://www.youtube.com/@codewithburt)**: 2.5K ‧ Bert De Swaef ‧ Developer at Vulpo
