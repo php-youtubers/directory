@@ -8,6 +8,7 @@
 - **[@thecodeholic](https://www.youtube.com/@thecodeholic)**: 80.1K ‧ Zura Sekhniashvili ‧ Founder of The Codeholic
 - **[@codewithdary](https://www.youtube.com/@codewithdary)**: 59.5K ‧ Dary Nazar ‧ Founder of Code with Dary
 - **[@laracastsofficial](https://www.youtube.com/@laracastsofficial)**: 57.5K ‧ Laracasts
+- **[@celkecursos](https://www.youtube.com/@celkecursos)**: 53.7K ‧ Cesar Nicolau ‧ Founder of Celke
 - **[@drehimself](https://www.youtube.com/@drehimself)**: 53.5K ‧ Andre Madarang ‧ Independent Developer
 - **[@programwithgio](https://www.youtube.com/@programwithgio)**: 51K ‧ Giorgi G ‧ Founder of Program With Gio
 - **[@jldrpt](https://www.youtube.com/@jldrpt)**: 46.2K ‧ João Ribeiro ‧ Independent Developer
@@ -101,4 +102,3 @@
 - **[@nhrrob](https://www.youtube.com/@nhrrob)**: 143 ‧ Nazmul Hasan Robin ‧ Developer at WPDeveloper
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 75 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@nexxai_dev](https://www.youtube.com/@nexxai_dev)**: 47 ‧ JT Smith ‧ Laravel Developer
-- **[@celkecursos](https://www.youtube.com/@celkecursos)**:  ‧ Cesar Nicolau ‧ Founder of Celke
