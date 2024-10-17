@@ -39,6 +39,7 @@
 - **[@thirus](https://www.youtube.com/@thirus)**: 12.3K ‧ Shruti Balasa ‧ Independent Developer
 - **[@davidconnelly](https://www.youtube.com/@davidconnelly)**: 11.3K ‧ David Connelly ‧ Founder of Trongate
 - **[@elrincondeisma](https://www.youtube.com/@elrincondeisma)**: 11.1K ‧ Ismael Catalá Gil ‧ Founder of El Rincón de Isma
+- **[@joshcirre](https://www.youtube.com/@joshcirre)**: 10.6K ‧ Josh Cirre ‧ Support Eng. & DevRel at Laravel
 - **[@codeexperts](https://www.youtube.com/@codeexperts)**: 9.3K ‧ Content Creator
 - **[zaprogramujzycie](https://www.youtube.com/zaprogramujzycie)**: 9.2K ‧ Content Creator
 - **[@themsaid](https://www.youtube.com/@themsaid)**: 8.3K ‧ Mohamed Said ‧ Independent Developer
