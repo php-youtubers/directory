@@ -56,12 +56,12 @@
 - **[@toham](https://www.youtube.com/@toham)**: 4.8K ‧ Thomas Boileau ‧ Independent Developer
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: 4.2K ‧ Tio Jobs ‧ Founder of JOBS TREINAMENTOS
 - **[@carlosbuenosvinoszamora](https://www.youtube.com/@carlosbuenosvinoszamora)**: 4.1K ‧ Carlos Buenosvinos ‧ Author of Domain-Driven Design in PHP and CQRS by Example
+- **[@tillythecoder](https://www.youtube.com/@tillythecoder)**: 3.8K ‧ Laravel Developer & Content Creator
 - **[@phparch](https://www.youtube.com/@phparch)**: 3.7K ‧ PHP Architect
 - **[@dersonsena-cabradev](https://www.youtube.com/@dersonsena-cabradev)**: 3.4K ‧ Kilderson Sena ‧ Developer at Yii Academy
 - **[@serversideupnet](https://www.youtube.com/@serversideupnet)**: 3.2K ‧ Server Side Up
 - **[@laraphant](https://www.youtube.com/@laraphant)**: 3.2K ‧ William Juma Misiko ‧ Founder of Laraphant
 - **[@metaphoricallyspeaking](https://www.youtube.com/@metaphoricallyspeaking)**: 3K ‧ Andrew Cairns ‧ Independent Developer
-- **[@tillythecoder](https://www.youtube.com/@tillythecoder)**: 3K ‧ Laravel Developer & Content Creator
 - **[@christophrumpel](https://www.youtube.com/@christophrumpel)**: 3K ‧ Christoph Rumpel ‧ Author of Laravel Core Adventures
 - **[@codewithburt](https://www.youtube.com/@codewithburt)**: 2.8K ‧ Bert De Swaef ‧ Developer at Vulpo
 - **[@differdev](https://www.youtube.com/@differdev)**: 2.7K ‧ Leonardo Tumadjian ‧ Content Creator at DifferDev
