@@ -103,3 +103,4 @@
 - **[@nhrrob](https://www.youtube.com/@nhrrob)**: 143 ‧ Nazmul Hasan Robin ‧ Developer at WPDeveloper
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 142 ‧ Marian Pop ‧ Founder of Laravel Magazine
 - **[@nexxai_dev](https://www.youtube.com/@nexxai_dev)**: 48 ‧ JT Smith ‧ Laravel Developer
+- **[@mrpunyapal](https://www.youtube.com/@mrpunyapal)**: 18 ‧ Punyapal Shah ‧ Laravel Artisan
