@@ -1,21 +1,114 @@
 <?php
 
-$apiKey = 'AIzaSyBirL9XMWHNxuVUUGPBdSqu9UxqcY06dVo';
+if (!isset($argv[1])) {
+    die("Usage: php script.php <API_KEY>\n");
+}
 
+$apiKey = $argv[1];
 $content = file_get_contents('README.md');
 $lines = explode("\n", $content);
 $youtubers = [];
 
-function getFollowers($url, $apiKey)
+function getFollowers($url, $apiKey): array
 {
-    preg_match('/channel_id=([a-zA-Z0-9_-]+)/', get_content_with_retry($url, 3), $matches);
+    try {
+        // Try to get channel ID from the original URL
+        try {
+            $content = get_content_with_retry($url, 2);
+        } catch (Exception $e) {
+            $alternativeUrls = generateAlternativeUrls($url);
+            foreach ($alternativeUrls as $altUrl) {
+                echo "Trying alternative URL: {$altUrl}\n";
+                try {
+                    $content = get_content_with_retry($altUrl, 1);
+                    if (preg_match('/channel_id=([a-zA-Z0-9_-]+)/', $content, $matches)) {
+                        // Found a working URL, update the original URL
+                        echo "URL corrected: {$url} -> {$altUrl}\n";
+                        $url = $altUrl;
+                        break;
+                    }
+                } catch (Exception $e) {
+                    echo "Alternative URL failed: {$altUrl}\n";
+                    continue;
+                }
+            }
+        }
+        if (!preg_match('/channel_id=([a-zA-Z0-9_-]+)/', $content, $matches)) {
+            if (!isset($matches[1])) {
+                throw new Exception("Could not extract channel ID from {$url}");
+            }
+        }
 
-    $channelId = $matches[1];
-    $json_url = "https://www.googleapis.com/youtube/v3/channels?part=statistics&id={$channelId}&key={$apiKey}";
-    $data = json_decode(get_content_with_retry($json_url, 3), true);
+        $channelId = $matches[1];
+        $json_url = "https://www.googleapis.com/youtube/v3/channels?part=statistics&id={$channelId}&key={$apiKey}";
+        $data = json_decode(get_content_with_retry($json_url, 2), true);
 
-    echo "got {$data['items'][0]['statistics']['subscriberCount']} subs for {$url} \n";
-    return $data['items'][0]['statistics']['subscriberCount'];
+        if (!isset($data['items'][0]['statistics']['subscriberCount'])) {
+            throw new Exception("Could not get subscriber count for {$url}");
+        }
+
+        $subscriberCount = $data['items'][0]['statistics']['subscriberCount'];
+        echo "Got {$subscriberCount} subs for {$url}\n";
+        return [
+            'count' => $subscriberCount,
+            'url' => $url // Return the potentially corrected URL
+        ];
+    } catch (Exception $e) {
+        // Log the error
+        $errorMessage = date('Y-m-d H:i:s') . " - Error: " . $e->getMessage() . "\n";
+        file_put_contents('script_errors.log', $errorMessage, FILE_APPEND);
+        echo "Error: " . $e->getMessage() . "\n";
+
+        // Return default values
+        return [
+            'count' => 0,
+            'url' => $url
+        ];
+    }
+}
+
+/**
+ * Generate alternative URL formats for a YouTube channel
+ * 
+ * @param string $url Original URL
+ * @return array Array of alternative URLs
+ */
+function generateAlternativeUrls($url)
+{
+    $alternatives = [];
+
+    // Extract handle or channel ID from URL
+    if (preg_match('/@([a-zA-Z0-9_-]+)/', $url, $matches)) {
+        $handle = $matches[1];
+        // Try /c/ format
+        $alternatives[] = "https://www.youtube.com/c/{$handle}";
+        // Try /channel/ format if it looks like a channel ID
+        if (strlen($handle) > 20) {
+            $alternatives[] = "https://www.youtube.com/channel/{$handle}";
+        }
+        // Try /user/ format
+        $alternatives[] = "https://www.youtube.com/user/{$handle}";
+    } elseif (preg_match('/\/c\/([a-zA-Z0-9_-]+)/', $url, $matches)) {
+        $handle = $matches[1];
+        // Try @ format
+        $alternatives[] = "https://www.youtube.com/@{$handle}";
+        // Try /user/ format
+        $alternatives[] = "https://www.youtube.com/user/{$handle}";
+    } elseif (preg_match('/\/channel\/([a-zA-Z0-9_-]+)/', $url, $matches)) {
+        $channelId = $matches[1];
+        // Not much we can do with channel IDs, but try @ format if it's not a typical channel ID
+        if (strlen($channelId) < 20) {
+            $alternatives[] = "https://www.youtube.com/@{$channelId}";
+        }
+    } elseif (preg_match('/\/user\/([a-zA-Z0-9_-]+)/', $url, $matches)) {
+        $username = $matches[1];
+        // Try @ format
+        $alternatives[] = "https://www.youtube.com/@{$username}";
+        // Try /c/ format
+        $alternatives[] = "https://www.youtube.com/c/{$username}";
+    }
+
+    return $alternatives;
 }
 
 function get_content_with_retry($url, $maxRetries)
@@ -40,14 +133,25 @@ function get_content_with_retry($url, $maxRetries)
         }
 
     }
-    throw new Exception('Failed after ' . $maxRetries . ' attempts.');
+    throw new Exception($url . ' - failed after ' . $maxRetries . ' attempts.');
 }
 
+/**
+ * Parse a line with followers information
+ * 
+ * @param string $line Line from README.md
+ * @param string $apiKey YouTube API key
+ * @return array Parsed information
+ */
 function parseWithFollowers($line, $apiKey): array
 {
-    $handle = substr($line, strpos($line, '[') + 1, strpos($line, ']') - (strpos($line, '[') + 1));
-    $url = substr($line, strpos($line, '(https://') + 1, strpos($line, ')**') - (strpos($line, '(https://') + 1));
+    // Extract handle from markdown link format
+    $handle = extractHandle($line);
 
+    // Extract URL from markdown link format
+    $url = extractUrl($line);
+
+    // Extract segments (followers, name, description)
     $segments = explode(' ‧ ', substr($line, strpos($line, '**:') + 4));
     $description = null;
     $name = null;
@@ -61,18 +165,40 @@ function parseWithFollowers($line, $apiKey): array
         $description = $segments[1] ?? null;
     }
 
-    $followers = getFollowers($url, $apiKey);
+    // Get followers and potentially corrected URL
+    $result = getFollowers($url, $apiKey);
+    $followers = $result['count'];
+    $url = $result['url']; // Use potentially corrected URL
 
     return compact('handle', 'url', 'name', 'description', 'followers');
 }
 
-function parseWithoutFollowers($line, $apiKey): array
+function extractHandle(string $line): string
 {
-    $handle = substr($line, strpos($line, '[') + 1, strpos($line, ']') - (strpos($line, '[') + 1));
-    $url = substr($line, strpos($line, '(https://') + 1, strpos($line, ')**') - (strpos($line, '(https://') + 1));
+    if (preg_match('/\[([^\]]+)\]/', $line, $matches)) {
+        return $matches[1];
+    }
+    return '';
+}
 
+function extractUrl(string $line): string
+{
+    if (preg_match('/\(([^)]+)\)/', $line, $matches)) {
+        return $matches[1];
+    }
+    return '';
+}
+
+function parseWithoutFollowers(string $line, string $apiKey): array
+{
+    // Extract handle from markdown link format
+    $handle = extractHandle($line);
+
+    // Extract URL from markdown link format
+    $url = extractUrl($line);
+
+    // Extract description and name
     $descriptionAndName = substr($line, strpos($line, '**:') + 4);
-
     $splitPos = strpos($descriptionAndName, ' ‧ ');
 
     if ($splitPos !== false) {
@@ -83,7 +209,10 @@ function parseWithoutFollowers($line, $apiKey): array
         $description = $descriptionAndName;
     }
 
-    $followers = getFollowers($url, $apiKey);
+    // Get followers and potentially corrected URL
+    $result = getFollowers($url, $apiKey);
+    $followers = $result['count'];
+    $url = $result['url']; // Use potentially corrected URL
 
     return compact('handle', 'url', 'name', 'description', 'followers');
 }
@@ -101,10 +230,6 @@ foreach ($lines as $line) {
     }
 }
 
-uasort($youtubers, function ($a, $b) {
-    return $b['followers'] <=> $a['followers'];
-});
-
 function followersCount($count)
 {
     if ($count > 1000000) {
@@ -118,15 +243,30 @@ function followersCount($count)
     return $count;
 }
 
-$sortedList = '';
-foreach ($youtubers as $youtuber) {
-    if ($youtuber['name'] !== null) {
-        $description = followersCount($youtuber['followers']) . " ‧ {$youtuber['name']} ‧ {$youtuber['description']}";
-    } else {
-        $description = followersCount($youtuber['followers']) . " ‧ " . $youtuber['description'];
-    }
+function formatReadmeContent(array $youtubers): string
+{
+    $sortedList = '';
+    foreach ($youtubers as $youtuber) {
+        // Format description with name if available
+        if ($youtuber['name'] !== null) {
+            $description = followersCount($youtuber['followers']) . " ‧ {$youtuber['name']} ‧ {$youtuber['description']}";
+        } else {
+            $description = followersCount($youtuber['followers']) . " ‧ " . $youtuber['description'];
+        }
 
-    $sortedList .= "- **[{$youtuber['handle']}](https://www.youtube.com/{$youtuber['handle']})**: {$description}\n";
+        // Use the potentially corrected URL
+        $sortedList .= "- **[{$youtuber['handle']}]({$youtuber['url']})**: {$description}\n";
+    }
+    return $sortedList;
 }
 
+// Sort youtubers by follower count
+uasort($youtubers, function ($a, $b) {
+    return $b['followers'] <=> $a['followers'];
+});
+
+// Format and write to README.md
+$sortedList = formatReadmeContent($youtubers);
 file_put_contents('README.md', $sortedList);
+
+echo "README.md updated successfully with " . count($youtubers) . " youtubers.\n";
