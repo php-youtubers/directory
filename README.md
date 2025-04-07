@@ -91,6 +91,7 @@
 - **[@laravelturkiye](https://www.youtube.com/@laravelturkiye)**: 878 ‧ Laravel Türkiye ‧ Turkish Laravel Community
 - **[@happytodev](https://www.youtube.com/@happytodev)**: 834 ‧ Fred Blanc ‧ Founder of HappyToDev
 - **[@phpugly](https://www.youtube.com/@phpugly)**: 796 ‧ PHPUgly
+- **[@phpdotenv](https://www.youtube.com/channel/UC5UBdO3CNp9CYfzfh80Txbg)**: 541 ‧ José Marcos ‧ Content Creator
 - **[@codekif](https://www.youtube.com/@codekif)**: 492 ‧ Pavlove Biokou ‧ Independent Developer
 - **[@dcblogdev](https://www.youtube.com/@dcblogdev)**: 482 ‧ Developer at dcblog.dev
 - **[@96downlu](https://www.youtube.com/@96downlu)**: 480 ‧ Luke Downing ‧ Developer at Pest PHP core team
