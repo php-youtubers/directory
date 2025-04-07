@@ -41,8 +41,8 @@ jobs:
           git commit -m "Update stats" || echo "No changes to commit"
           git push origin ${{ env.BRANCH_NAME }}
 
-  
-      - name: Create PR
-        run: |
-          gh auth login --with-token <<<"${{ secrets.GITHUB_TOKEN }}"
-          gh pr create --base main --head ${{ env.BRANCH_NAME }} --title "[AUTO] Update stats" --body "_This PR includes automated changes._"
+#       Won't work until the permissions for GitHub actions are updated!
+#      - name: Create PR
+#        run: |
+#          gh auth login --with-token <<<"${{ secrets.GITHUB_TOKEN }}"
+#          gh pr create --base main --head ${{ env.BRANCH_NAME }} --title "[AUTO] Update stats" --body "_This PR includes automated changes._"
