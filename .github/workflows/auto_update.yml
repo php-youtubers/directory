@@ -33,7 +33,7 @@ jobs:
       - name: Update stats
         env:
           API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: php update.php
+        run: php update.php ${{ secrets.YOUTUBE_API_KEY }}
   
       - name: Commit changes
         run: |
