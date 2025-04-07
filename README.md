@@ -56,6 +56,7 @@
 - **[@toham](https://www.youtube.com/@toham)**: 4.8K ‧ Thomas Boileau ‧ Independent Developer
 - **[@tiojobs](https://www.youtube.com/@tiojobs)**: 4.2K ‧ Tio Jobs ‧ Founder of JOBS TREINAMENTOS
 - **[@carlosbuenosvinoszamora](https://www.youtube.com/@carlosbuenosvinoszamora)**: 4.1K ‧ Carlos Buenosvinos ‧ Author of Domain-Driven Design in PHP and CQRS by Example
+- **[@codewithsusan](https://www.youtube.com/@codewithsusan)**: 3.2K ‧ Susan Buck ‧ Educator and Web Programmer
 - **[@tillythecoder](https://www.youtube.com/@tillythecoder)**: 3.8K ‧ Laravel Developer & Content Creator
 - **[@phparch](https://www.youtube.com/@phparch)**: 3.7K ‧ PHP Architect
 - **[@dersonsena-cabradev](https://www.youtube.com/@dersonsena-cabradev)**: 3.4K ‧ Kilderson Sena ‧ Developer at Yii Academy
