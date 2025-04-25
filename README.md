@@ -105,4 +105,3 @@
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 156 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@nhrrob](https://www.youtube.com/@nhrrob)**: 153 ‧ Nazmul Hasan Robin ‧ Developer at WPDeveloper
 - **[@nexxai_dev](https://www.youtube.com/@nexxai_dev)**: 78 ‧ JT Smith ‧ Laravel Developer
-- **[@phpislife](https://www.youtube.com/@phpislife)**: 0 ‧ José Marcos ‧ Content Creator
