@@ -101,7 +101,7 @@
 - **[@akbolota](https://www.youtube.com/@akbolota)**: 431 ‧ Bolota ‧ Developer at Falcon Tecnology
 - **[@jacked-php](https://www.youtube.com/@jacked-php)**: 411 ‧ Savio Resende ‧ Independent Developer
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 340 ‧ Marian Pop ‧ Founder of Laravel Magazine
+- **[@MilwadKhosravi](https://www.youtube.com/@MilwadKhosravi)**: 268 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 156 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@nhrrob](https://www.youtube.com/@nhrrob)**: 153 ‧ Nazmul Hasan Robin ‧ Developer at WPDeveloper
 - **[@nexxai_dev](https://www.youtube.com/@nexxai_dev)**: 84 ‧ JT Smith ‧ Laravel Developer
-- **[@milwad](https://www.youtube.com/@milwad)**: 0 ‧ Milwad ‧ Founder of Binafy
